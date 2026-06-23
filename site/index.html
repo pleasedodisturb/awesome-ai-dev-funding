@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Awesome AI Dev Funding — Filterable program directory</title>
+<meta name="description" content="Curated, filterable list of funding programs for solo AI developers. Credits, grants, fellowships, accelerators, bounties, revenue paths.">
+<meta property="og:title" content="Awesome AI Dev Funding">
+<meta property="og:description" content="278 funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, revenue paths.">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<header>
+  <h1>Awesome AI Dev Funding</h1>
+  <p class="tagline">Curated funding for solo AI developers — credits, grants, fellowships, accelerators, bounties, revenue paths. <a href="https://github.com/pleasedodisturb/awesome-ai-dev-funding">Source on GitHub</a>.</p>
+</header>
+
+<section class="filters">
+  <div class="filter-row">
+    <label>
+      <span>Search</span>
+      <input id="search" type="search" placeholder="program name, notes, entity…" autofocus>
+    </label>
+    <label>
+      <span>Category</span>
+      <select id="category"><option value="">All categories</option></select>
+    </label>
+    <label>
+      <span>Status</span>
+      <select id="status">
+        <option value="">All</option>
+        <option value="open">Open</option>
+        <option value="conditional">Conditional</option>
+        <option value="closed">Closed</option>
+      </select>
+    </label>
+    <label>
+      <span>Solo OK</span>
+      <select id="solo">
+        <option value="">All</option>
+        <option value="yes">Yes</option>
+        <option value="conditional">Conditional</option>
+        <option value="no">No</option>
+      </select>
+    </label>
+    <label class="checkbox">
+      <input id="solo-friendly" type="checkbox">
+      <span>Solo-friendly &amp; open only</span>
+    </label>
+  </div>
+  <p class="count" id="count">Loading…</p>
+</section>
+
+<main>
+  <table id="programs">
+    <thead>
+      <tr>
+        <th data-sort="status">●</th>
+        <th data-sort="name">Program</th>
+        <th data-sort="category">Category</th>
+        <th data-sort="amount_max_usd">Amount</th>
+        <th data-sort="type">Type</th>
+        <th data-sort="solo_ok">Solo OK</th>
+        <th data-sort="geography">Geography</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</main>
+
+<footer>
+  <p>
+    Data: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a>.
+    Code: <a href="https://github.com/pleasedodisturb/awesome-ai-dev-funding/blob/main/LICENSE-CODE">MIT</a>.
+    Last verified <span id="last-verified"></span>.
+    <a href="https://github.com/pleasedodisturb/awesome-ai-dev-funding/issues/new">Report a stale entry →</a>
+  </p>
+</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>
