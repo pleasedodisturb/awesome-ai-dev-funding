@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-05-08",
+  "last_verified": "2026-07-05",
   "total": 278,
   "categories": [
     {
@@ -541,9 +541,9 @@
       "solo_ok_raw": "Yes",
       "entity": "Individuals or small teams",
       "geography": "Global",
-      "url": "https://block.xyz/inside/introducing-the-goose-grant-program",
+      "url": "https://goose-docs.ai/grants/",
       "status": "open",
-      "notes": "Rolling basis. Best fit by wide margin. MCP integrations easiest angle."
+      "notes": "Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — apply via goose-docs.ai/grants Google Form (old block.github.io URL is dead). Focus: MCP integrations, security audits, agent autonomy, multi-modal, real-world automation. Milestone-based quarterly payouts; work must not be employer/client-funded. Launched Jul 2025 (no fresh 2026 round — continuous)."
     },
     {
       "id": "oss-framework-grants-uk-sovereign-ai-fund",
@@ -2182,16 +2182,16 @@
       "name": "NSF SBIR/STTR Phase I (AI)",
       "category_id": "gov-foundation-grants",
       "category": "Government & Foundation Grants",
-      "amount": "$275K / 6-24mo",
-      "amount_max_usd": 24000000,
+      "amount": "$305K / 6-18mo",
+      "amount_max_usd": 305000,
       "type": "Cash (non-dilutive)",
       "solo_ok": "conditional",
       "solo_ok_raw": "Conditional",
       "entity": "US-owned SBC ≥51% US citizen/PR",
       "geography": "US",
-      "url": "https://seedfund.nsf.gov/topics/artificial-intelligence/",
+      "url": "https://seedfund.nsf.gov/solicitations/",
       "status": "open",
-      "notes": "20 hr/wk PI requirement is real blocker."
+      "notes": "Relaunched Jun 2 2026 after ~5mo freeze under solicitation 26-510: $210M pool (+ separate $40M instrumentation pilot 26-511). \"Strategic Breakthrough\" is up to $30M per company, invite-only for existing Phase II awardees — not open to new applicants. Project Pitch open now; full proposal deadline Jul 27 2026 (then Nov 4 2026, Mar 4 2027). $305K cap dates to NSF 24-579 (2024), not new. 20 hr/wk PI requirement is real blocker."
     },
     {
       "id": "gov-foundation-grants-nsf-sbir-phase-ii",
@@ -4230,16 +4230,16 @@
       "name": "Anthropic AI Safety Bounty",
       "category_id": "production-revenue",
       "category": "Production & Revenue Paths",
-      "amount": "Up to $25K per finding",
-      "amount_max_usd": 25000,
+      "amount": "Up to ~$15K public / $35K invite-only (model safety)",
+      "amount_max_usd": 15000,
       "type": "Bug bounty",
-      "solo_ok": "conditional",
-      "solo_ok_raw": "Conditional",
-      "entity": "Specialist play",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes",
+      "entity": "Anyone (public bounty); model-safety track invite-only",
       "geography": "Global",
-      "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
+      "url": "https://hackerone.com/anthropic",
       "status": "open",
-      "notes": "Universal jailbreak bounty via HackerOne."
+      "notes": "Public security bounty on HackerOne since May 7-8 2026 — open to anyone, ceiling ~$10-15K (Claude Code, API, claude.ai). The $35K Model Safety track (novel universal jailbreaks, CBRN/cyber) remains invite-only via application form. Two distinct programs — do not conflate."
     },
     {
       "id": "production-revenue-openai-gpt-5-5-bio-bounty",
