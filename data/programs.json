@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-05",
+  "last_verified": "2026-07-10",
   "total": 278,
   "categories": [
     {
@@ -870,8 +870,8 @@
       "name": "GitHub Secure OSS Fund",
       "category_id": "oss-framework-grants",
       "category": "OSS Framework Grants",
-      "amount": "$10K + $100K Azure + Copilot Pro",
-      "amount_max_usd": 100000,
+      "amount": "$10K cash + $10K Azure (up to $150K more via separate MS for Startups)",
+      "amount_max_usd": 20000,
       "type": "Cash + Credits",
       "solo_ok": "conditional",
       "solo_ok_raw": "Conditional",
@@ -879,7 +879,7 @@
       "geography": "Global",
       "url": "https://github.com/open-source/github-secure-open-source-fund",
       "status": "open",
-      "notes": "Multi-session/yr. Session 4 ran late April 2026."
+      "notes": "Corrected Jul 10 2026: primary page states $10K cash + $10K Azure credits guaranteed; the $150K Azure figure is only a 'potential' via a separate, non-guaranteed Microsoft for Startups track, not part of this fund's own award. Also grants Copilot/AutoFix access (not specifically 'Copilot Pro'). Multi-session/yr; page still shows stale 2025 session copy, no confirmed Session 5 date."
     },
     {
       "id": "oss-framework-grants-vercel-ai-accelerator",
