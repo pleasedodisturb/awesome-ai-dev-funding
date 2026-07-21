@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-05-08.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **115 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -68,7 +68,7 @@ _24 programs_
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
 | 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $1.2K (6mo Max 20x) | Yes | Open | Closes Jun 30 2026. No-brainer if you maintain anything popular. |
-| 🟢 [Block Goose Grant](https://block.xyz/inside/introducing-the-goose-grant-program) | Up to $100K | Yes | Open | Rolling basis. Best fit by wide margin. MCP integrations easiest angle. |
+| 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — appl... |
 | 🟢 [FLOSS/fund (Zerodha)](https://floss.fund/) | $10K–$100K | Yes | Open | $1M annual. funding.json manifest submission. |
 | 🟢 [Daytona Startup Credits](https://www.daytona.io/startups) | $50K credits | Yes | Open | Useful for sandboxed code execution use cases. |
 | 🟢 [OpenAI Codex OSS Fund](https://openai.com/form/codex-open-source-fund/) | $25K API credits | Yes | Open | Rolling. Bonus: ≥1K star repos get free ChatGPT Pro. |
@@ -80,7 +80,7 @@ _24 programs_
 | 🟢 [fal Research Grants](https://fal.ai/grants) | In-kind compute | Yes | Open | Email grants@fal.ai with project description. |
 | 🟠 [UK Sovereign AI Fund](https://www.sovereignai.gov.uk/) | £500M pool varies | No | Open | UK only. Multi-stage govt application. |
 | 🟡 [Cloudflare Startup Program](https://blog.cloudflare.com/startup-program-250k-credits/) | $250K credits | Conditional | Open | Credits not cash; only useful if hitting real bills. |
-| 🟡 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K + $100K Azure + Copilot Pro | Conditional | Open | Multi-session/yr. Session 4 ran late April 2026. |
+| 🟡 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K cash + $10K Azure credits | Conditional | Open | Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups u... |
 | 🟡 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | Varies | Conditional | Open | Invite-heavy. |
 | 🟡 [Sovereign Tech Fund (DE)](https://www.sovereign.tech/programs/fund) | Project-scaled | Conditional | Open | Tens to hundreds of K EUR per engagement. |
 | 🟠 [LFAI & Data sandbox/incubation](https://lfaidata.foundation/) | In-kind (no cash) | No | Open | Strategic if building cross-org infra. Not direct funding. |
@@ -201,7 +201,6 @@ _55 programs_
 | 🟢 [MATS (Berkeley)](https://www.matsprogram.org/) | $15K stipend + compute + housing | Yes | Open | $12K compute + housing + travel. |
 | 🟠 [John Templeton Foundation](https://www.templeton.org/funding-areas) | Varies; $60M pool | No | Open | OFI Aug 14 2026; Full Proposal Jan 15 2027. |
 | 🟠 [UK ARIA Safeguarded AI](https://www.aria.org.uk/safeguarded-ai/) | £59M programme | No | Open | UK research institution priority. |
-| 🟡 [NSF SBIR/STTR Phase I (AI)](https://seedfund.nsf.gov/topics/artificial-intelligence/) | $275K / 6-24mo | Conditional | Open | 20 hr/wk PI requirement is real blocker. |
 | 🟡 [DARPA AIE](https://www.darpa.mil/research/programs/ai-next-campaign) | Up to $1M / 18mo | Conditional | Open | Small co with strong tech credentials can win. |
 | 🟠 [Schmidt AI Institute Fellow in Residence](https://ai.schmidtsciences.org) | Competitive salary 12-18mo | No | Open | Up to 4 fellows in 2026. |
 | 🟡 [EIC Accelerator](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en) | €0.5M-€2.5M grant + up to €15M equity | Conditional | Open | Step 2 deadlines: Jan 7 / Mar 4 / May 6 / Jul 8 / Sep 2 / Nov 4 2026. ~5% accept. |
@@ -214,6 +213,7 @@ _55 programs_
 | 🟠 [Innovate UK Smart Grants](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/smart-innovation-funding-guidance/) | £25K-£500K | No | Open | Must form UK company first. |
 | 🟠 [Eurostars Call 10](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-march-2026/) | €50K-€500K | No | Open | SME budget ≥50%. ≤36 mo. |
 | 🟡 [NIST SBIR (AI)](https://grantedai.com/grants/sbir-program-artificial-intelligence-ai-topic-national-institute-of-standards-and-tech-f2c94bbc) | $100K (I) / $400K (II) | Conditional | Open | Smaller awards but lighter review. |
+| 🟡 [NSF SBIR/STTR Phase I (AI)](https://seedfund.nsf.gov/solicitations/) | $305K / 6-18mo | Conditional | Open | Relaunched Jun 2 2026 after ~5mo freeze under solicitation 26-510: $210M pool (+ separate $40M instrumentat... |
 | 🟡 [BMBF KMU-innovativ (AI)](https://verwaltung.bund.de/leistungsverzeichnis/en/leistung/99400071017000) | Up to €100K/yr | Conditional | Open | Need science/industry partner. |
 | 🟡 [Bpifrance French Tech Grant](https://en.sedomicilier.fr) | €30K-€45K | Conditional | Open | France registration needed. |
 | 🟡 [AI NATION Grant](https://www.ai-nation.de/grant) | Up to €36K + €16K resources | Conditional | Open | Q3 2026 next app. |
@@ -310,6 +310,7 @@ _50 programs_
 | 🟢 [Lablab.ai events](https://lablab.ai) | $3.5K-$28K per event | Yes | Open | Many events monthly. |
 | 🟢 [Kaggle (ARC Prize 2026)](https://arcprize.org/competitions/2026) | $2.5K-$25K per milestone | Yes | Open | $2M total pool. Open-source req. |
 | 🟢 [n8n template marketplace](https://n8n.io) | $20-200/template; $2.5K-20K/mo possible | Yes | Open | DIY discovery. |
+| 🟢 [Anthropic AI Safety Bounty](https://hackerone.com/anthropic) | Up to ~$15K public / $35K invite-only (model safety) | Yes | Open | Public security bounty on HackerOne since May 7-8 2026 — open to anyone, ceiling ~$10-15K (Claude Code, API... |
 | 🟢 [Founderpath](https://founderpath.com) | $10K MRR min; 7-12% discount | Yes | Open | Best mainstream RBF for solo builders. |
 | 🟢 [Algora Bounties](https://algora.io) | $50-$5K/issue | Yes | Open | 2-7 days post-merge. 100% to dev. |
 | 🟢 [Gitcoin](https://gitcoin.co) | $100-$5K | Yes | Open | Token volatility risk. |
@@ -331,7 +332,6 @@ _50 programs_
 | 🟠 [Re:cap](https://www.re-cap.com) | €100K-€10M | No | Open | Germany/EU only. |
 | 🟡 [Konwinski Prize](https://www.kaggle.com/competitions/konwinski-prize) | $1M grand | Conditional | Open | 90% GH issue resolver bar — very hard. |
 | 🟡 [HackerOne AI Red Team](https://www.hackerone.com/product/ai-red-teaming) | $5K-$50K per program | Conditional | Open | 750+ AI specialists in 2026. |
-| 🟡 [Anthropic AI Safety Bounty](https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program) | Up to $25K per finding | Conditional | Open | Universal jailbreak bounty via HackerOne. |
 | 🟡 [OpenAI GPT-5.5 Bio Bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/) | Up to $25K (single winner) | Conditional | Open | Apr 28 - Jul 27 2026 window. Only 1st earns full. |
 | 🟡 [AMD AI Developer Program](https://lablab.ai) | $21.5K + GPU prizes | Conditional | Open | Hardware ROI. |
 | 🟡 [Hum Capital](https://humcapital.com) | Match to lenders | Conditional | Open | Brokerage feel. |
