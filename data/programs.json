@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-08-13",
   "total": 278,
   "categories": [
     {
@@ -870,16 +870,16 @@
       "name": "GitHub Secure OSS Fund",
       "category_id": "oss-framework-grants",
       "category": "OSS Framework Grants",
-      "amount": "$10K cash + $10K Azure credits",
-      "amount_max_usd": 20000,
-      "type": "Cash + Credits",
+      "amount": "$10K cash (3 tranches)",
+      "amount_max_usd": 10000,
+      "type": "Cash",
       "solo_ok": "conditional",
       "solo_ok_raw": "Conditional",
       "entity": "Critical OSS maintainers",
       "geography": "Global",
       "url": "https://github.com/open-source/github-secure-open-source-fund",
       "status": "open",
-      "notes": "Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups upside, not part of this fund's guaranteed amount."
+      "notes": "Verified 2026-08-13 on primary page: $10,000 total cash only ($6K during program, $2K at 6mo check-in, $2K at 12mo check-in) — no Azure credits bundled with this fund; prior '+$10K Azure' figure not supported by current page text. Page copy still references 'all Program Sessions in 2025' with no visible 2026 update — confirm an active session before applying."
     },
     {
       "id": "oss-framework-grants-vercel-ai-accelerator",

@@ -1,6 +1,6 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-08-13.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
@@ -80,7 +80,7 @@ _24 programs_
 | 🟢 [fal Research Grants](https://fal.ai/grants) | In-kind compute | Yes | Open | Email grants@fal.ai with project description. |
 | 🟠 [UK Sovereign AI Fund](https://www.sovereignai.gov.uk/) | £500M pool varies | No | Open | UK only. Multi-stage govt application. |
 | 🟡 [Cloudflare Startup Program](https://blog.cloudflare.com/startup-program-250k-credits/) | $250K credits | Conditional | Open | Credits not cash; only useful if hitting real bills. |
-| 🟡 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K cash + $10K Azure credits | Conditional | Open | Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups u... |
+| 🟡 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K cash (3 tranches) | Conditional | Open | Verified 2026-08-13 on primary page: $10,000 total cash only ($6K during program, $2K at 6mo check-in, $2K ... |
 | 🟡 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | Varies | Conditional | Open | Invite-heavy. |
 | 🟡 [Sovereign Tech Fund (DE)](https://www.sovereign.tech/programs/fund) | Project-scaled | Conditional | Open | Tens to hundreds of K EUR per engagement. |
 | 🟠 [LFAI & Data sandbox/incubation](https://lfaidata.foundation/) | In-kind (no cash) | No | Open | Strategic if building cross-org infra. Not direct funding. |
