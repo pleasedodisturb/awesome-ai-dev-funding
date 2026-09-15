@@ -150,13 +150,15 @@
       "amount": "$2.5K base + more via VC",
       "amount_max_usd": 2500,
       "type": "Credits",
-      "solo_ok": "conditional",
+      "solo_ok": "no",
       "solo_ok_raw": "Conditional (VC)",
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://openai.com/startups/",
       "status": "conditional",
-      "notes": "Cold apps land sparse $1K. EV-per-effort poor."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): page says 'Unlock credits and dedicated support through eligible VC partners' and 'Startups backed by a VC partner receive dedicated technical and GTM support'. VC-referral only; no self-serve credits.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "ai-lab-credits-openai-grove",
@@ -172,7 +174,9 @@
       "geography": "SF",
       "url": "https://openai.com/index/openai-grove/",
       "status": "closed",
-      "notes": "Cohort 2 closed Jan 12 2026. No Cohort 3 dates."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): 'Update on January 12, 2026: Applications are now closed.' Cohort ran Jan 22 to Feb 27 2026 in San Francisco; no next cohort announced.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "ai-lab-credits-google-gemini-for-research",
@@ -268,13 +272,15 @@
       "amount": "Up to 25% discount",
       "amount_max_usd": 25,
       "type": "Discount",
-      "solo_ok": "conditional",
+      "solo_ok": "no",
       "solo_ok_raw": "Conditional",
       "entity": "Early-stage startups",
       "geography": "Global",
       "url": "https://cohere.com/startup-program-application",
-      "status": "conditional",
-      "notes": "Discount only — not pure credits. Skip for token-grant goals."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): /startup-program redirects to the cohere.com homepage; no program page exists any more.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "ai-lab-credits-mistral-mistralship",
@@ -1060,8 +1066,10 @@
       "entity": "GenAI startups Seed-A",
       "geography": "Global",
       "url": "https://aws.amazon.com/startups",
-      "status": "conditional",
-      "notes": "8-wk cohort. Replaces Activate; not stackable."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): aws.amazon.com/startups shows only AWS Activate (up to $200K credits) and Kiro credits; no Generative AI Accelerator program listed. Use the AWS Activate rows instead.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-microsoft-for-startups-founders-hub-basic",
@@ -1324,8 +1332,10 @@
       "entity": "AI startups Seed+",
       "geography": "Global",
       "url": "https://www.coreweave.com/",
-      "status": "conditional",
-      "notes": "Heavily commercial. $50 free signup."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): coreweave.com homepage has no accelerator or startup credits program; nothing found on site.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-crusoe-energy-startup",
@@ -1446,8 +1456,10 @@
       "entity": "Via Google Cloud Perks",
       "geography": "Global",
       "url": "https://replicate.com",
-      "status": "open",
-      "notes": "Best as supplement; Replicate margin baked in."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): replicate.com/startups returns 'Page not found'.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-together-ai-startup-accelerator",
@@ -1586,8 +1598,10 @@
       "entity": "Anyone",
       "geography": "Global",
       "url": "https://www.amd.com/en/developer/resources/cloud-access.html",
-      "status": "open",
-      "notes": "10-day expiry. Use it fast."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): cloud-access page now lists only 'Radeon Test Drive' via partners (Colfax, Comino, ELSA) for local GPU evaluation; no developer cloud credits program.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-amd-aier-researcher",
@@ -1602,8 +1616,10 @@
       "entity": "Accredited research orgs",
       "geography": "Global",
       "url": "https://www.amd.com/en/developer/resources/cloud-access.html",
-      "status": "conditional",
-      "notes": "Academic-only."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): no researcher cloud-access program on the AMD cloud-access page any more; only Radeon Test Drive via partners.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-huggingface-spaces-community-grant",
@@ -1737,13 +1753,15 @@
       "amount": "$2.5K",
       "amount_max_usd": 2500,
       "type": "Credits",
-      "solo_ok": "yes",
+      "solo_ok": "no",
       "solo_ok_raw": "Yes",
       "entity": "Open application",
       "geography": "Global",
       "url": "https://openai.com/startups/",
-      "status": "open",
-      "notes": "Tier 1 open."
+      "status": "conditional",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): same page as Tier 2/3: credits only 'through eligible VC partners'. No self-serve tier visible.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-openai-startup-program-t2",
@@ -1759,7 +1777,9 @@
       "geography": "Global",
       "url": "https://openai.com/startups/",
       "status": "conditional",
-      "notes": "VC partner referral code required."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): credits only 'through eligible VC partners'.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-openai-grove",
@@ -1775,7 +1795,9 @@
       "geography": "SF",
       "url": "https://openai.com/index/openai-grove/",
       "status": "closed",
-      "notes": "Cohort 2 closed Jan 12 2026. ~3% accept."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): 'Update on January 12, 2026: Applications are now closed.' No next cohort announced.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "cloud-compute-credits-openai-researcher-access",
@@ -2189,8 +2211,10 @@
       "entity": "Closed nominations",
       "geography": "US/Global",
       "url": "https://ai2050.schmidtsciences.org/",
-      "status": "closed",
-      "notes": "Closed-nomination only."
+      "status": "conditional",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): AI2050 'making awards to support work conducted by researchers'; fellows are selected, no open application form on the site. Academic researchers.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "accelerators-fellowships-general-catalyst-venture-fellows",
@@ -2366,7 +2390,9 @@
       "geography": "US",
       "url": "https://www.bvp.com/bessemer-fellows",
       "status": "closed",
-      "notes": "Paused / being reimagined."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): bvp.com/bessemer-fellows redirects to the Atlas news page; fellowship page no longer exists.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "accelerators-fellowships-deepmind-phd-fellowship-student-researcher",
@@ -2473,7 +2499,8 @@
       "geography": "US",
       "url": "https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/",
       "status": "conditional",
-      "notes": "Awaiting new solicitation."
+      "notes": "Awaiting new solicitation. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-nsf-techaccess-ai-ready-america",
@@ -2524,7 +2551,8 @@
       "geography": "US",
       "url": "https://grants.nih.gov",
       "status": "conditional",
-      "notes": "Not realistic for unaffiliated dev."
+      "notes": "Not realistic for unaffiliated dev. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-darpa-aie",
@@ -2558,7 +2586,8 @@
       "geography": "US",
       "url": "https://darpa.mil",
       "status": "closed",
-      "notes": "Concluded 2025."
+      "notes": "Concluded 2025. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-arpa-h-advocate",
@@ -2574,7 +2603,8 @@
       "geography": "US",
       "url": "https://arpa-h.gov/explore-funding/programs/advocate",
       "status": "conditional",
-      "notes": "Solution Summary Feb 27 2026 passed; watch re-issue."
+      "notes": "Solution Summary Feb 27 2026 passed; watch re-issue. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-arpa-h-sbir-sttr",
@@ -2584,13 +2614,15 @@
       "amount": "Up to $3.5M",
       "amount_max_usd": 3500000,
       "type": "Cash",
-      "solo_ok": "conditional",
+      "solo_ok": "no",
       "solo_ok_raw": "Conditional",
       "entity": "US small business",
       "geography": "US",
       "url": "https://www.bwcoconsulting.com/fod/arpah-sbir-sttr",
       "status": "open",
-      "notes": "Next round Jul 10 2026."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): 'majority ownership by U.S. Citizens', 'Perform all work in the U.S.', health topics only (fertility, bioadhesives, endometriosis...). Deck deadlines Sep 16 / Oct 1 2026. Not applicable to a non-US individual.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-doe-genesis-mission",
@@ -2606,7 +2638,8 @@
       "geography": "US",
       "url": "https://science.osti.gov",
       "status": "conditional",
-      "notes": "Apr 28 / May 19 2026 deadlines passed."
+      "notes": "Apr 28 / May 19 2026 deadlines passed. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-nist-sbir-ai",
@@ -2674,7 +2707,9 @@
       "geography": "US",
       "url": "https://ai.schmidtsciences.org",
       "status": "open",
-      "notes": "Up to 4 fellows in 2026."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): a job posting, not a grant: 12-18 month fellow-in-residence at $150,000/yr, on-site New York, 'recent PhD graduates in AI', rolling. Up to $50K compute credits for fellows. Not applicable.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-uk-aria-safeguarded-ai",
@@ -2743,7 +2778,8 @@
       "geography": "UK",
       "url": "https://www.ukri.org/councils/innovate-uk",
       "status": "open",
-      "notes": "UK SME feasibility studies."
+      "notes": "UK SME feasibility studies. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-eic-accelerator",
@@ -2882,13 +2918,15 @@
       "amount": "€30K-€45K",
       "amount_max_usd": 45000,
       "type": "Cash",
-      "solo_ok": "conditional",
+      "solo_ok": "no",
       "solo_ok_raw": "Conditional",
       "entity": "France-registered <1yr",
       "geography": "France",
       "url": "https://en.sedomicilier.fr",
       "status": "open",
-      "notes": "France registration needed."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): bpifrance.fr homepage carries no Bourse French Tech page; France-registered companies only in any case.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-bpifrance-deeptech-seed-accelerator",
@@ -2938,7 +2976,8 @@
       "geography": "Canada",
       "url": "https://www.nserc-crsng.gc.ca",
       "status": "open",
-      "notes": "Matches industry funding 2:1."
+      "notes": "Matches industry funding 2:1. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-vector-institute-affiliations",
@@ -2954,7 +2993,8 @@
       "geography": "Canada",
       "url": "https://vectorinstitute.ai",
       "status": "open",
-      "notes": "Through Canadian universities."
+      "notes": "Through Canadian universities. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-israel-innovation-authority-tnufa",
@@ -2988,7 +3028,8 @@
       "geography": "Israel",
       "url": "https://innovationisrael.org.il",
       "status": "open",
-      "notes": "Match-based."
+      "notes": "Match-based. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-ai-singapore-100-experiments",
@@ -3022,7 +3063,8 @@
       "geography": "Singapore",
       "url": "https://aisingapore.org",
       "status": "open",
-      "notes": "SG university only."
+      "notes": "SG university only. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-csiro-next-generation-graduates",
@@ -3072,7 +3114,8 @@
       "geography": "US",
       "url": "https://sloan.org",
       "status": "conditional",
-      "notes": "Faculty only."
+      "notes": "Faculty only. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "gov-foundation-grants-john-templeton-foundation",
@@ -3483,7 +3526,9 @@
       "geography": "Global",
       "url": "https://www.coinbase.com/developer-platform/discover/launches/ai-builder-grants",
       "status": "open",
-      "notes": "Stable USDC. Lowest-friction LLM agent + wallet."
+      "notes": "Browser attempt 2026-09-15: coinbase.com shows a browser error page from this network; DNS failure also in WebFetch. Unverified; likely lapsed (no 2026 mentions).",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-polygon-community-grants-s2",
@@ -3498,8 +3543,10 @@
       "entity": "Multiple AI tracks",
       "geography": "Global",
       "url": "https://polygon.questbook.xyz/",
-      "status": "open",
-      "notes": "Eliza Labs allocator track for AI agents."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): polygon.questbook.xyz shows a browser error page (site gone).",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-solana-foundation-ai-grants-10m-fund",
@@ -3550,8 +3597,10 @@
       "entity": "Privacy/ZK focus",
       "geography": "Global",
       "url": "https://alephzero.org/ecosystem-funding-program",
-      "status": "open",
-      "notes": "$100K AWS credits + Kudelski audits bundled."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): /ecosystem-funding-program redirects to the alephzero.org homepage; no funding program page exists.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-filecoin-dev-grants",
@@ -3743,7 +3792,9 @@
       "geography": "Global",
       "url": "https://akash.network/",
       "status": "open",
-      "notes": "Initiate $100 / Seed $1K / Incubator $10K / Accelerator $100K."
+      "notes": "Browser attempt 2026-09-15: Cloudflare 'Sorry, you have been blocked' even from a real browser session. Unverified; prior notes stand.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-render-network-grants",
@@ -3776,8 +3827,10 @@
       "entity": "Compute supply",
       "geography": "Global",
       "url": "https://io.net/",
-      "status": "open",
-      "notes": "Pays providers not builders."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): io.net homepage is a GPU marketplace ('H100s from $2.19/hr'); no supplier incentive or grants program on the site.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-asi-alliance-deep-funding",
@@ -3810,8 +3863,10 @@
       "entity": "AI on ASI Chain",
       "geography": "Global",
       "url": "https://fetch.ai",
-      "status": "open",
-      "notes": "Mentorship + check."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): fetch.ai homepage is the ASI:One / Agentverse consumer product; no accelerator or grants program on the site.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-theoriq",
@@ -3844,8 +3899,10 @@
       "entity": "Investor-posted features",
       "geography": "Global",
       "url": "https://mor.org/",
-      "status": "open",
-      "notes": "True bounty market. Freelance cadence."
+      "status": "closed",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): mor.org is now a staking / decentralised inference product page (stake stETH/USDC to earn MOR); no builder bidding or grants program shown.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "crypto-web3-grants-worldcoin-world-foundation-grants",
@@ -4174,13 +4231,15 @@
       "amount": "Variable",
       "amount_max_usd": null,
       "type": "Card line / term loan",
-      "solo_ok": "yes",
+      "solo_ok": "no",
       "solo_ok_raw": "Yes",
       "entity": "Card line for OpEx",
       "geography": "Global",
       "url": "https://brex.com",
-      "status": "open",
-      "notes": "Capital One acquired Apr 2026."
+      "status": "conditional",
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): brex.com homepage shows cards, banking, expenses; no 'Brex Capital' product page. US corporate finance product; not applicable to an unincorporated individual.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-lighter-capital",
@@ -4230,9 +4289,11 @@
       "solo_ok_raw": "No",
       "entity": "Mid-stage SaaS",
       "geography": "US",
-      "url": "https://arc.tech",
+      "url": "https://www.joinarc.com/",
       "status": "conditional",
-      "notes": "Integrated with bank."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): arc.tech now redirects to joinarc.com: cash management, treasury and 'Debt Raise' via a 200+ lender network for technology companies. Corporate only.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-calm-company-fund-was-earnest",
@@ -4318,7 +4379,8 @@
       "geography": "Global",
       "url": "https://replicate.com",
       "status": "open",
-      "notes": "30-60 day net. Cold-start kills long tail."
+      "notes": "30-60 day net. Cold-start kills long tail. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-modal",
@@ -4334,7 +4396,8 @@
       "geography": "Global",
       "url": "https://modal.com",
       "status": "open",
-      "notes": "You own pricing infra cost is yours."
+      "notes": "You own pricing infra cost is yours. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-hugging-face-inference-endpoints",
@@ -4350,7 +4413,8 @@
       "geography": "Global",
       "url": "https://huggingface.co/inference-endpoints",
       "status": "open",
-      "notes": "You eat idle cost."
+      "notes": "You eat idle cost. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-together-ai-fine-tunes",
@@ -4366,7 +4430,8 @@
       "geography": "Global",
       "url": "https://together.ai",
       "status": "conditional",
-      "notes": "Compete with base models."
+      "notes": "Compete with base models. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-cursor-plugin-marketplace",
@@ -4400,7 +4465,8 @@
       "geography": "Global",
       "url": "https://vercel.com",
       "status": "conditional",
-      "notes": "Marketing channel."
+      "notes": "Marketing channel. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-slack-app-directory",
@@ -4416,7 +4482,8 @@
       "geography": "Global",
       "url": "https://slack.com/marketplace",
       "status": "open",
-      "notes": "App review gating. 2600+ apps."
+      "notes": "App review gating. 2600+ apps. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-notion-integrations-templates",
@@ -4432,7 +4499,8 @@
       "geography": "Global",
       "url": "https://notion.so",
       "status": "open",
-      "notes": "Discovery is hard."
+      "notes": "Discovery is hard. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-linear-apps",
@@ -4448,7 +4516,8 @@
       "geography": "Global",
       "url": "https://linear.app",
       "status": "open",
-      "notes": "Small TAM."
+      "notes": "Small TAM. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-anthropic-mcp-marketplace",
@@ -4482,7 +4551,8 @@
       "geography": "Global",
       "url": "https://zapier.com",
       "status": "open",
-      "notes": "Weeks for review."
+      "notes": "Weeks for review. | Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant (entity, citizenship, or institution requirement).",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-n8n-template-marketplace",
@@ -4498,7 +4568,9 @@
       "geography": "Global",
       "url": "https://n8n.io",
       "status": "open",
-      "notes": "DIY discovery."
+      "notes": "Browser-verified 2026-09-15 (Brave, Mac Mini): n8n.io homepage shows no paid template marketplace or creator payout program; irrelevant to this applicant.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-algora-bounties",
@@ -4514,7 +4586,9 @@
       "geography": "Global",
       "url": "https://algora.io",
       "status": "open",
-      "notes": "2-7 days post-merge. 100% to dev."
+      "notes": "Browser attempt 2026-09-15: algora.io/bounties rendered an error page. Unverified; prior notes stand.",
+      "last_verified": "2026-09-15",
+      "fit_score": 0
     },
     {
       "id": "production-revenue-issuehunt",
