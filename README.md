@@ -5,7 +5,7 @@
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **101 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **97 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -52,14 +52,14 @@ _31 programs_
 | 🟡 [Anthropic Startup Program](https://claude.com/programs/startups) | Claude credits (amount not published on page) | No | Conditional | Anyone can 'join' the community, but credits require institutional equity funding and a company founded wit... |
 | 🟡 [AI Grant (Friedman/Gross)](https://aigrant.org) | $5K-$50K cash or compute for OSS (aigrant.org); accelerator (aigrant.com) is a $250K SAFE, Batch 4 closed | Yes | Conditional | Two things share the name: aigrant.com is now an equity accelerator ($250K uncapped SAFE, dilutive, Batch 4... |
 | 🟡 [Meta Llama Startup Program](https://developer.meta.com/ai/programs/startups/) | Was up to $36K reimbursement; program page removed | No | Conditional | Program page llama.com/programs/startups/ now 301s to Meta's generic developer portal with no mention of th... |
-| 🟡 [OpenAI for Startups (Tier 2/3)](https://openai.com/startups/) | $2.5K base + more via VC | Conditional | Conditional | Cold apps land sparse $1K. EV-per-effort poor. |
-| 🟡 [Cohere Startup Program](https://cohere.com/startup-program-application) | Up to 25% discount | Conditional | Conditional | Discount only — not pure credits. Skip for token-grant goals. |
+| 🟡 [OpenAI for Startups (Tier 2/3)](https://openai.com/startups/) | $2.5K base + more via VC | No | Conditional | Browser-verified 2026-09-15 (Brave, Mac Mini): page says 'Unlock credits and dedicated support through elig... |
 | 🟡 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | A few hundred dollars (invite-only) | Conditional | Conditional | Now described as invite-only and aimed at students. Attribution to Together AI requested. No longer a walk-... |
 | 🟡 [Replicate (via AI Grant)](https://replicate.com/docs/topics/billing) | Free runs on select models only; no credit program | No | Conditional | Billing docs confirm no OSS, research or startup credit program; only a try-for-free model collection befor... |
 | 🔴 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $10K-$50K research grant + $5K Claude credits | Conditional | Closed | Research awards closed; page shows no reopening date. Empirical economics framing required; only stale 2025... |
-| 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Cohort 2 closed Jan 12 2026. No Cohort 3 dates. |
+| 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): 'Update on January 12, 2026: Applications are now closed.' C... |
 | 🔴 [Groq for Startups](https://groq.com) | Was $10K GroqCloud credits; program unpublished Aug 5 2026 | Conditional | Closed | groq.com/groq-for-startups now renders the generic Groq marketing page with no program content (confirmed b... |
 | 🔴 [Claude Builder Clubs / Campus](https://claude.com/programs/campus) | USD 3,600 cash stipend (Campus Ambassador) + program access | No | Closed | Fall 2026 ambassador window was Sep 1-12 2026 (now closed). Students 18+ with work authorization in country... |
+| 🔴 [Cohere Startup Program](https://cohere.com/startup-program-application) | Up to 25% discount | No | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): /startup-program redirects to the cohere.com homepage; no pr... |
 
 ## OSS Framework Grants
 
@@ -106,11 +106,8 @@ _51 programs_
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
 | 🟢 [Brex/Mercury/Ramp/Stripe Atlas perks](https://stripe.com/atlas) | Stripe Atlas: $500 setup + $100/yr; $2,500 Stripe credits; $50K+ partner discounts | Yes | Open | Atlas incorporates a Delaware entity for $500; page (served in German) lists $2,500 Stripe credits and 'Par... |
-| 🟢 [Replicate Startup](https://replicate.com) | $500-$2.5K | Yes | Open | Best as supplement; Replicate margin baked in. |
-| 🟢 [OpenAI Startup Program (T1)](https://openai.com/startups/) | $2.5K | Yes | Open | Tier 1 open. |
 | 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | 6 months of Claude Max 20x (~$200/mo, ~$1,200 value) | Yes | Open | REOPENED with new criteria (no Jun 30 cutoff on page): maintainers with 500+ dependent repos, 100+ dependen... |
 | 🟢 [Oracle for Startups](https://www.oracle.com/cloud/free/) | No startup credit program on page; Oracle Cloud Free Tier: US$300 for 30 days + Always Free (Ampere A1, AMD compute, storage) | Yes | Open | The 'Oracle for Startups' page now only points to the Free Tier and developer center; the prior 'up to ~$10... |
-| 🟢 [AMD Developer Cloud](https://www.amd.com/en/developer/resources/cloud-access.html) | $50-$100 (~25-50 GPU hrs) | Yes | Open | 10-day expiry. Use it fast. |
 | 🟢 [Kaggle Notebooks](https://www.kaggle.com/docs/efficient-gpu-usage) | 30 GPU hours/week (P100 or 2xT4), 9-hour sessions; TPU available | Yes | Open | Docs: quota 'resets weekly and is 30 hours or sometimes higher depending on demand'. kaggle.com/docs/notebo... |
 | 🟢 [Modal Free Tier](https://modal.com/pricing) | $30/month free compute (Starter plan), recurring | Yes | Open | Changed from a one-time $30 to '$30 / month free compute' on the Starter plan, with 10 GPU concurrency. Per... |
 | 🟢 [Groq Free Tier](https://console.groq.com/docs/rate-limits) | Free: 30 RPM / 1,000 RPD / 8K TPM / 200K TPD per LLM (gpt-oss-120b, gpt-oss-20b, qwen/qwen3.8-27b) | Yes | Open | Free tier still exists with no card. Limits tightened: LLMs are 1K RPD / 200K TPD (the 14.4K RPD figure now... |
@@ -138,7 +135,6 @@ _51 programs_
 | 🟡 [Anthropic External Researcher](https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program) | $1,000 API credits (higher in rare cases) | Conditional | Open | Amount corrected from 'up to $20K / 6 mo' to $1,000. Targets researchers on high-priority AI safety and ali... |
 | 🟡 [OpenAI Researcher Access](https://openai.com/form/researcher-access-program/) | Up to $1,000 API credits, valid 12 months | Conditional | Open | NOT academic-only: 'especially interested in subsidizing work by researchers with limited financial and ins... |
 | 🟡 [Colab Pro (Student)](https://colab.research.google.com) | Free 1 yr Pro | Conditional | Open | Sessions disconnect; not for production. |
-| 🟡 [AWS GenAI Accelerator](https://aws.amazon.com/startups) | Up to $1M | No | Conditional | 8-wk cohort. Replaces Activate; not stackable. |
 | 🟡 [Google for Startups Cloud (AI Tier)](https://cloud.google.com/startup/ai) | Up to $350,000 over 2 years (Y1 up to $250K, Y2 20% up to $100K) | No | Conditional | The prior '$10K Model Garden' add-on is no longer on the page. Credits cover Gemini/Gemma only; 'Third-part... |
 | 🟡 [AWS Activate Portfolio](https://aws.amazon.com/startups/credits) | Up to $200,000 | No | Conditional | Ceiling doubled from $100K to $200K. Still needs an Organization ID from an Activate Provider (accelerator,... |
 | 🟡 [Google for Startups Cloud (Scale)](https://cloud.google.com/startup) | Up to $200,000 over 2 years | No | Conditional | Requires pre-seed/seed equity funding within 5 years or Series A within 12 months from institutional invest... |
@@ -146,16 +142,20 @@ _51 programs_
 | 🟡 [OVHcloud Startup (SCALE)](https://startup.ovhcloud.com/en/) | Up to EUR 100,000 credits + 20h engineer time | No | Conditional | Scaleup tier; amount corrected from '$120K' to 'up to €100,000'. Series A expectation from prior notes not ... |
 | 🟡 [Crusoe Energy Startup](https://www.crusoe.ai/cloud) | $10K-$100K | No | Conditional | Sales-driven; no public self-serve. |
 | 🟡 [Anthropic Claude Startup](https://claude.com/programs/startups) | Undisclosed free credits + priority rate limits | Conditional | Conditional | Application is open to founders with or without VC backing, but credits specifically require 'equity fundin... |
-| 🟡 [OpenAI Startup Program (T2+)](https://openai.com/startups/) | $15K-$100K | No | Conditional | VC partner referral code required. |
+| 🟡 [OpenAI Startup Program (T2+)](https://openai.com/startups/) | $15K-$100K | No | Conditional | Browser-verified 2026-09-15 (Brave, Mac Mini): credits only 'through eligible VC partners'. |
 | 🟡 [Fireworks AI for Startups](https://fireworks.ai/startups) | Undisclosed credits, expire after 1 year | No | Conditional | Now requires 'a registered company with a functional website', privately held, founded within 5 years, and ... |
 | 🟡 [RunPod Growth](https://www.runpod.io/startup-program) | $25K bonus credits on $50K upfront commit | No | Conditional | 12-month agreement, Seed-B+ spending $5K-$25K+/mo on GPU. |
 | 🟡 [Modal Labs Startup](https://modal.com/startups) | Undisclosed (Seed-A tier); custom for Series B+ | No | Conditional | Now VC-gated: Seed-A tier requires 'Raised any amount of VC funding from our VC partner network' or '>$1m f... |
 | 🟡 [Cerebras Startup Deal](https://www.cerebras.ai/yc-startup-deal) | Up to $22.5K inference (YC startups only) | No | Conditional | The $22.5K offer is the 'Cerebras YC Startup Deal' for Y Combinator companies from any batch. No general st... |
 | 🟡 [Microsoft for Startups (Enhanced)](https://www.microsoft.com/en-us/startups) | Up to $5,000 without investor; beyond that only via Investor Network referral | Conditional | Conditional | The old $5K-$25K 'Enhanced' tier no longer exists as a self-serve step. Progression above $5K is gated on a... |
+| 🟡 [OpenAI Startup Program (T1)](https://openai.com/startups/) | $2.5K | No | Conditional | Browser-verified 2026-09-15 (Brave, Mac Mini): same page as Tier 2/3: credits only 'through eligible VC par... |
 | 🟡 [Cerebras Free Tier](https://inference-docs.cerebras.ai/support/rate-limits) | $5 trial credit (30-day expiry) after adding a verified payment method; Free Trial caps 5 RPM, 90K TPM, 1M tokens/day | Yes | Conditional | MATERIAL CHANGE: the permanent free tier is gone. Free Trial requires a verified payment method and the $5 ... |
-| 🟡 [CoreWeave Accelerator](https://www.coreweave.com/) | Custom | No | Conditional | Heavily commercial. $50 free signup. |
-| 🟡 [AMD AIER (Researcher)](https://www.amd.com/en/developer/resources/cloud-access.html) | Custom HW + cloud | No | Conditional | Academic-only. |
-| 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K | Yes | Closed | Cohort 2 closed Jan 12 2026. ~3% accept. |
+| 🔴 [AWS GenAI Accelerator](https://aws.amazon.com/startups) | Up to $1M | No | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): aws.amazon.com/startups shows only AWS Activate (up to $200K... |
+| 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K | Yes | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): 'Update on January 12, 2026: Applications are now closed.' N... |
+| 🔴 [Replicate Startup](https://replicate.com) | $500-$2.5K | Yes | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): replicate.com/startups returns 'Page not found'. |
+| 🔴 [AMD Developer Cloud](https://www.amd.com/en/developer/resources/cloud-access.html) | $50-$100 (~25-50 GPU hrs) | Yes | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): cloud-access page now lists only 'Radeon Test Drive' via par... |
+| 🔴 [CoreWeave Accelerator](https://www.coreweave.com/) | Custom | No | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): coreweave.com homepage has no accelerator or startup credits... |
+| 🔴 [AMD AIER (Researcher)](https://www.amd.com/en/developer/resources/cloud-access.html) | Custom HW + cloud | No | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): no researcher cloud-access program on the AMD cloud-access p... |
 
 ## Accelerators & Fellowships
 
@@ -174,6 +174,7 @@ _39 programs_
 | 🟢 [Tinygrad / tiny corp / comma.ai](https://tinygrad.org/) | Per-bounty payments (Google Sheet) | Yes | Open | Bounties still advertised via a public Google Sheet as a hiring funnel. Cash for merged PRs, no program str... |
 | 🟡 [ARIA (UK) Scaling Trust / Safeguarded AI](https://aria.org.uk/funding-opportunities/) | Scaling Trust Track 2 GBP 200K-2M, Track 3 GBP 100K-3M; Safeguarded AI Cyber GBP 2.5-3.5M per team | Conditional | Open | Scaling Trust Tracks 2+3 now on rolling applications (current batch closes Oct 31 2026): Track 2 funds open... |
 | 🟡 [HF0 Residency](https://www.hf0.com/) | Up to $1M uncapped (5% per prior data; terms not on page) | Conditional | Open | Batches start Sep 13 2026 and Jan 4 2027. Explicitly for repeat founders. SF-based, equity. |
+| 🟡 [Schmidt Sciences AI2050](https://ai2050.schmidtsciences.org/) | Up to ~$3M / 3yrs | No | Conditional | Browser-verified 2026-09-15 (Brave, Mac Mini): AI2050 'making awards to support work conducted by researche... |
 | 🟡 [Sequoia Arc](https://www.sequoiacap.com/arc/) | Up to $1M, company-specific equity terms | Yes | Conditional | Page describes Arc as a bi-annual open call but lists no current dates or deadline. Equity, SF/London immer... |
 | 🟡 [Survival & Flourishing Fund](https://survivalandflourishing.fund/) | $20M-$40M across 2026 rounds; grants typically $50K-$1M; Speculation Grants rolling | Conditional | Conditional | SFF-2026 main round deadline Apr 22 2026 passed; recommendations announced through Fall 2026. Speculation G... |
 | 🟡 [a16z Crypto Startup School (CSX)](https://apply.a16zcrypto.com) | $500K for 7% (prior data; not on page) | Yes | Conditional | Application page still titled CSX Application Spring 2025 with no newer cohort info. Crypto-only, equity. |
@@ -183,7 +184,6 @@ _39 programs_
 | 🟡 [Convergent Research (FROs)](https://www.convergentresearch.org/) | Salary (hire-into-org) | No | Conditional | No open FRO call; only a general 'submit ideas' invitation. Not a founder or individual funding program. |
 | 🟡 [SPAR (Supervised Program for Alignment Research)](https://sparai.org/) | Unpaid; approved expenses, compute and API credits covered | Yes | Conditional | Fall 2026 closed; Spring 2027 applications open around December 2026. Part-time, remote, no stipend. Useful... |
 | 🟡 [Apart Research Fellowships (Apart Fellowship / Partnered Fellowships)](https://apartresearch.com/news/explaining-the-apart-research-fellowships) | Compute + API credits; stipend not stated | Yes | Conditional | Entry via monthly hackathons; Partnered Fellowships (e.g. Secure Program Synthesis Fellowship with Atlas Co... |
-| 🔴 [Schmidt Sciences AI2050](https://ai2050.schmidtsciences.org/) | Up to ~$3M / 3yrs | No | Closed | Closed-nomination only. |
 | 🔴 [South Park Commons Founder Fellowship](https://www.southparkcommons.com/news/f26-founder-fellowship) | $400K for 7% SAFE + $600K guaranteed follow-on + up to $1M credits | Yes | Closed | Fall 2026 (F26) applications closed Aug 2 2026; bootcamp late Sep to late Nov in SF/NYC/Bangalore offices. ... |
 | 🔴 [Renaissance Philanthropy AI for Math](https://www.renaissancephilanthropy.org/ai-for-math-fund) | $100K-$1M for 12-24 months | Yes | Closed | 2026 round: abstracts due Mar 30, full proposals Apr 10, decisions Aug 2026. Open to individuals worldwide ... |
 | 🔴 [Pillar VC Encode (AI for Science)](https://encode.pillar.vc/) | GBP 115K salary + GBP 100K+ compute, 1 year, no equity | Yes | Closed | Cohort 2 applications ran Mar 20 to Apr 30 2026 and closed; Cohort 3 early-interest form open. Fellows must... |
@@ -201,7 +201,7 @@ _39 programs_
 | 🔴 [Pioneer.app](https://pioneer.app/) | $0 (program ended) | Yes | Closed | DEAD. Pioneer stopped making new investments in 2024; no tournament running. |
 | 🔴 [Buildspace s5](https://buildspace.so) | $0 | Yes | Closed | DEFUNCT, confirmed: homepage is a farewell letter. |
 | 🔴 [OpenAI Superalignment Fast Grants](https://alignment.openai.com/safety-fellowship/) | OpenAI Safety Fellowship: monthly stipend (amount undisclosed) + compute, Sep 14 2026 to Feb 5 2027 | Yes | Closed | Fast Grants are dead. Successor: OpenAI Safety Fellowship (external researchers, Berkeley workspace at Cons... |
-| 🔴 [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | Internship | Yes | Closed | Paused / being reimagined. |
+| 🔴 [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | Internship | Yes | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): bvp.com/bessemer-fellows redirects to the Atlas news page; f... |
 
 ## Government & Foundation Grants
 
@@ -220,43 +220,43 @@ _72 programs_
 | 🟢 [BlueDot Impact Rapid Grants](https://bluedot.org/grants/rapid) | USD 50 to 10,000 | Yes | Open | Rolling micro-grants for concrete AI safety projects incl. tooling and compute. Fast decisions. Preference ... |
 | 🟢 [IFP The Launch Sequence RFP](https://ifp.org/rfp-launch) | USD 10,000 honorarium per published project plan; USD 1,000 idea-scout bounty | Yes | Open | Rolling RFP for written project plans on preparing for advanced AI across accelerating science, strengtheni... |
 | 🟢 [Coefficient Giving: capacity-building on risks from transformative AI](https://coefficientgiving.org/funds/navigating-transformative-ai/funding-for-work-that-builds-capacity-to-address-risks-from-transformative-ai/) | Not stated | Yes | Open | The one Coefficient Giving (ex-Open Phil) AI-risk door that still says apply: training, events, resources, ... |
-| 🟠 [Schmidt AI Institute Fellow in Residence](https://ai.schmidtsciences.org) | Competitive salary 12-18mo | No | Open | Up to 4 fellows in 2026. |
-| 🟡 [IIA Startup Fund](https://innovationisrael.org.il) | NIS 1.5M-15M | Conditional | Open | Match-based. |
+| 🟠 [Schmidt AI Institute Fellow in Residence](https://ai.schmidtsciences.org) | Competitive salary 12-18mo | No | Open | Browser-verified 2026-09-15 (Brave, Mac Mini): a job posting, not a grant: 12-18 month fellow-in-residence ... |
+| 🟡 [IIA Startup Fund](https://innovationisrael.org.il) | NIS 1.5M-15M | Conditional | Open | Match-based. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applica... |
 | 🟡 [EIC Pathfinder Challenges](https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en) | Up to €4M (booster grants up to €50K) | Conditional | Open | 2026 Challenges deadline Oct 28 2026; single applicants allowed in some challenges but applicants must be l... |
-| 🟡 [ARPA-H SBIR/STTR](https://www.bwcoconsulting.com/fod/arpah-sbir-sttr) | Up to $3.5M | Conditional | Open | Next round Jul 10 2026. |
+| 🟠 [ARPA-H SBIR/STTR](https://www.bwcoconsulting.com/fod/arpah-sbir-sttr) | Up to $3.5M | No | Open | Browser-verified 2026-09-15 (Brave, Mac Mini): 'majority ownership by U.S. Citizens', 'Perform all work in ... |
 | 🟠 [NSF TechAccess: AI-Ready America](https://www.nsf.gov/funding/opportunities/techaccess-ai-ready-america/nsf26-508/solicitation) | $1M/year for three years per Coordination Hub | No | Open | Active. Round 2 LOI Dec 15 2026, full proposal Jan 15 2027; Round 3 LOI Jun 1 2027. Unaffiliated individual... |
-| 🟠 [Innovate UK Frontier AI Feasibility](https://www.ukri.org/councils/innovate-uk) | Share of £3M | No | Open | UK SME feasibility studies. |
+| 🟠 [Innovate UK Frontier AI Feasibility](https://www.ukri.org/councils/innovate-uk) | Share of £3M | No | Open | UK SME feasibility studies. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorpor... |
 | 🟡 [EIC Accelerator](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en) | Grant below €2.5M (plus optional equity up to €15M via EIC Fund) | Conditional | Open | Short applications accepted any time, batched first Tuesday monthly. Remaining 2026 Step 2 cut-off: Nov 4 2... |
 | 🟡 [UK ARIA Scaling Trust](https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust/funding) | £200K-£2M per project (call PDF via search); programme backed by nearly £50m | Conditional | Open | Tracks 2 (Tooling: open-source agents and reusable components incl. security reasoning, verifiable reportin... |
-| 🟠 [NSERC Alliance Advantage](https://www.nserc-crsng.gc.ca) | $20K-$1M/yr | No | Open | Matches industry funding 2:1. |
+| 🟠 [NSERC Alliance Advantage](https://www.nserc-crsng.gc.ca) | $20K-$1M/yr | No | Open | Matches industry funding 2:1. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorp... |
 | 🟡 [Halcyon Futures](https://halcyonfutures.org/) | Career transition grants up to USD 500K; nonprofit seed grants up to USD 1M | Conditional | Open | Rolling, email-first (hello@halcyonfutures.org). Themes include AI security and cybersecurity. Targets foun... |
 | 🟠 [Innovate UK Smart Grants](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/smart-innovation-funding-guidance/) | £25K-£500K | No | Open | Must form UK company first. |
 | 🟡 [NSF SBIR/STTR Phase I (AI)](https://seedfund.nsf.gov/solicitations/) | $305K / 6-18mo (cap not restated on solicitations page; from 26-510 per July check) | Conditional | Open | Solicitations 26-510 and 26-511 active. Next Phase I full-proposal window closes Nov 4 2026 for pitch invit... |
 | 🟠 [AI Singapore 100 Experiments](https://aisingapore.org/innovation/100e/) | Co-funding up to SGD 150,000 per project (6-month MVP track) | No | Open | Organisation must match with cash and manpower; no individual route. Amount corrected from '70%' (prior amo... |
 | 🟡 [IBB GründungsBONUS Plus (Berlin)](https://www.ibb.de/de/foerderprogramme/gruendungsbonus.html) | 50% of founding costs, max EUR 50,000 | Conditional | Open | Open again ('Ab sofort'). Eligible: profit-oriented founders, start-ups, micro-enterprises and Freiberufler... |
 | 🟡 [Israel Innovation Authority Tnufa](https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/) | Up to NIS 200,000 over 12 months (80% of approved budget), royalty-repaid | Conditional | Open | Open year-round. Aimed at entrepreneurs who will form an Israeli company; foreign founders route is the Inn... |
-| 🟡 [Bpifrance French Tech Grant](https://en.sedomicilier.fr) | €30K-€45K | Conditional | Open | France registration needed. |
+| 🟠 [Bpifrance French Tech Grant](https://en.sedomicilier.fr) | €30K-€45K | No | Open | Browser-verified 2026-09-15 (Brave, Mac Mini): bpifrance.fr homepage carries no Bourse French Tech page; Fr... |
 | 🟠 [Bpifrance Deeptech Seed Accelerator](https://bpifrance.com) | Cohort funding | No | Open | 75 companies across 3 cohorts. |
-| 🟠 [Vector Institute affiliations](https://vectorinstitute.ai) | Varies | No | Open | Through Canadian universities. |
-| 🟠 [AISG PhD Fellowship](https://aisingapore.org) | Full PhD funding | No | Open | SG university only. |
+| 🟠 [Vector Institute affiliations](https://vectorinstitute.ai) | Varies | No | Open | Through Canadian universities. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincor... |
+| 🟠 [AISG PhD Fellowship](https://aisingapore.org) | Full PhD funding | No | Open | SG university only. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU ... |
 | 🟡 [Coefficient Giving Project Tailwind](https://coefficientgiving.org/tailwind/) | Not stated per initiative; founder-scale budgets from a reported USD 20M pool | Conditional | Open | Call for founders to launch new AI safety organizations. Two-step: express interest, promising candidates i... |
 | 🟡 [Stiftung Mercator (Digitalisierte Gesellschaft)](https://www.stiftung-mercator.de/de/wie-wir-foerdern/informationen-fuer-antragstellende/) | Not fixed; project sketches rolling | Conditional | Open | Rolling two-stage process (sketch by email, ~6 weeks review). Focus areas include 'Digitalisierte Gesellsch... |
 | 🟡 [UK ARIA Safeguarded AI](https://www.aria.org.uk/safeguarded-ai/) | £59M programme | No | Conditional | Programme page lists no open funding call as of Sept 2026. UK research orgs prioritised. |
-| 🟡 [NSF AI Institutes](https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/) | $20M / 5yrs | No | Conditional | Awaiting new solicitation. |
-| 🟡 [DOE Genesis Mission](https://science.osti.gov) | $500K-$15M | No | Conditional | Apr 28 / May 19 2026 deadlines passed. |
+| 🟡 [NSF AI Institutes](https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/) | $20M / 5yrs | No | Conditional | Awaiting new solicitation. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorpora... |
+| 🟡 [DOE Genesis Mission](https://science.osti.gov) | $500K-$15M | No | Conditional | Apr 28 / May 19 2026 deadlines passed. \| Not re-fetched 2026-09-15: structurally not applicable to a solo,... |
 | 🟡 [NIH SBIR/STTR (R43/R44)](https://grants.nih.gov/funding/activity-codes/R44) | $314K (I) / $2.1M (II) | Conditional | Conditional | Next standard receipt Sept 5 2026. |
 | 🟡 [NSF POSE](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) | $300K (Ph I) / $1.5M (Ph II) (amounts not restated on archived page) | No | Conditional | Old solicitation NSF 24-606 is archived; page says latest version is NSF 26-506. Deadline for 26-506 not re... |
 | 🟡 [NSF SBIR Phase II](https://seedfund.nsf.gov/solicitations/) | Up to $1M + supplements (26-510 covers Phase I/II/Fast-Track) | Conditional | Conditional | Same solicitation family (NSF 26-510). Requires a Phase I award first. Not reachable for this applicant. |
 | 🟡 [Open Technology Fund Internet Freedom Fund](https://www.opentech.fund/funds/internet-freedom-fund/) | USD 10,000 to 900,000 (third-party listing) | Yes | Conditional | Primary page returned 403; homepage snippet confirms support for individuals. Scope is internet freedom / d... |
-| 🟡 [NIH R01](https://grants.nih.gov) | ~$500K/yr | No | Conditional | Not realistic for unaffiliated dev. |
+| 🟡 [NIH R01](https://grants.nih.gov) | ~$500K/yr | No | Conditional | Not realistic for unaffiliated dev. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, un... |
 | 🟡 [Sloan Foundation AI / Metascience Postdoc](https://sloan.org/programs/digital-technology/aipostdoc-rfp) | Up to $250K | No | Conditional | Postdoc social-sci/humanities work. |
 | 🟡 [Schmidt Science Fellows](https://schmidtsciencefellows.org) | $110K postdoc | No | Conditional | May 19 2026 noms; July 13 2026 final. |
 | 🟡 [BMBF KMU-innovativ (AI)](https://verwaltung.bund.de/leistungsverzeichnis/en/leistung/99400071017000) | Up to 75% / €100K per year for start-ups (SMEs only) | No | Conditional | verwaltung.bund.de entry is stale (last outline deadline Oct 15 2023, still says BMBF; ministry is now BMFT... |
 | 🟡 [Prototype Fund, class 03 (BMFTR 'Software Sprint' guideline)](https://www.prototypefund.de/en/application) | Max €47,500 for individual developers (6 months); €95,000 teams; Second Stage +€31,667 solo / +€63,333 teams (4 months) | Yes | Conditional | MUST-check (b): application window Oct 1-Nov 30 2026; selection Dec 2026-Mar 2027; funding Jun 1-Dec 1 2027... |
-| 🟡 [Sloan Research Fellowships](https://sloan.org) | $75K | No | Conditional | Faculty only. |
+| 🟡 [Sloan Research Fellowships](https://sloan.org) | $75K | No | Conditional | Faculty only. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applic... |
 | 🟡 [OpenAI Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program/) | USD 10,000 increments from a USD 1M fund; API credits, direct funding or equivalents | Conditional | Conditional | Primary page unreadable (403); Brave snippet of the primary page confirms rolling review and preference for... |
 | 🟡 [AI Safety Camp](https://aisafety.camp) | Research lead stipend $1,500 total (AISC11, per EA Forum); site lists no amounts | Yes | Conditional | Primary site shows only a Research Incubator (Aug 15-30 2026) and AISC10; no AISC12 dates or stipends poste... |
-| 🟡 [ARPA-H ADVOCATE](https://arpa-h.gov/explore-funding/programs/advocate) | Multi-million | Conditional | Conditional | Solution Summary Feb 27 2026 passed; watch re-issue. |
+| 🟡 [ARPA-H ADVOCATE](https://arpa-h.gov/explore-funding/programs/advocate) | Multi-million | Conditional | Conditional | Solution Summary Feb 27 2026 passed; watch re-issue. \| Not re-fetched 2026-09-15: structurally not applica... |
 | 🟡 [SPRIND AI Moonshot Challenge](https://www.sprind.org/en/actions/challenges) | Challenge-funded (varies) | Conditional | Conditional | No AI/agent/security challenge open. Open now: Next Frontier Robotics (Oct 22 2026) and Recoding Medicine (... |
 | 🟡 [CSIRO Next Generation Graduates](https://www.csiro.au/en/work-with-us/funding-programs/funding/next-generation-graduates-programs) | Scholarship (MPhil/Honours/Masters) | No | Conditional | PhD scholarships filled; MPhil applications close in 2026 for a 2027 start; Honours/Masters until filled. A... |
 | 🟡 [SFF Speculation Grants](https://survivalandflourishing.fund/2026/application) | Varies | Conditional | Conditional | Speculation Grant is a mandatory gate into S-Process (95%+ of evaluated applicants received one) but the 20... |
@@ -266,7 +266,7 @@ _72 programs_
 | 🔴 [Survival and Flourishing Fund (S-Process)](https://survivalandflourishing.fund/2026/application) | $20M-$40M pool across 2026 rounds | No | Closed | All 2026 rounds closed (Main Apr 22; Climate Jun 10; Animal Welfare Jun 24; HSEE Jul 8). Individuals withou... |
 | 🔴 [EIC Pathfinder Open](https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en) | Up to €4M | No | Closed | 2026 Pathfinder Open deadline May 12 2026 has passed; consortium of 3+ legal entities required. Watch 2027 ... |
 | 🔴 [DARPA AIE](https://www.darpa.mil/research/programs/ai-next-campaign) | Historic: up to $1M / 18mo | Conditional | Closed | AI Next Campaign page now states the program is complete; AIE opportunities were last renewed Aug 2019. No ... |
-| 🔴 [DARPA AIxCC](https://darpa.mil) | $1M small biz prize | No | Closed | Concluded 2025. |
+| 🔴 [DARPA AIxCC](https://darpa.mil) | $1M small biz prize | No | Closed | Concluded 2025. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU appl... |
 | 🔴 [Schmidt Sciences AI2050 Fellows](https://ai2050.schmidtsciences.org/) | Up to $1M / 3yrs (historic; page cites $18M award across cohort) | No | Closed | Page shows only announced cohorts (latest listed Dec 2024) and no application route, consistent with closed... |
 | 🔴 [Eurostars Call 10](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-for-projects-september-2026/) | €50K-€500K (national co-funding) | No | Closed | Call 10 (Mar 2026) and Call 11 (closed Sep 10 2026, 14:00 CEST) are both past. Calls run roughly twice a ye... |
 | 🔴 [NIST SBIR (AI)](https://www.nist.gov/tpo/small-business-innovation-research-program-sbir) | Historic: $100K (I) / $400K (II); no active NOFO | Conditional | Closed | Shard URL was a third-party aggregator; canonical NIST page says no active NOFO. SBIR reauthorized Apr 13 2... |
@@ -293,20 +293,18 @@ _41 programs_
 | 🟢 [Worldcoin Mini App Retro](https://world.org/grants) | $300K WLD Developer Rewards pilot (monthly pro-rata) | Yes | Open | Same page as World grants; usage-based WLD rewards for live mini apps. |
 | 🟢 [Octant v2 Epochs](https://docs.octant.app/docs/projects/apply-for-funding/) | Epoch matching pools ~200 ETH (Epoch 12); per-project varies | Yes | Open | v2 is live: Epoch 12 ran Jun 16-30 2026 (200 ETH pool); Epoch 13 (privacy theme) closed Sept 10 2026 and is... |
 | 🟢 [NEAR Horizon AI Incubator](https://hzn-ai.vercel.app/) | Not stated on page (prior: $25K-$100K + compute) | Yes | Open | Apply button live (Airtable). Page gives no amounts, cohort dates or eligibility. 12-week accelerator for d... |
-| 🟢 [Akash Developer Grants](https://akash.network/) | $100-$100K | Yes | Open | Initiate $100 / Seed $1K / Incubator $10K / Accelerator $100K. |
+| 🟢 [Akash Developer Grants](https://akash.network/) | $100-$100K | Yes | Open | Browser attempt 2026-09-15: Cloudflare 'Sorry, you have been blocked' even from a real browser session. Unv... |
 | 🟢 [ASI Alliance Deep Funding](https://superintelligence.io/grants/) | Up to $100K (FET/ASI) | Yes | Open | Overview page says up to $100K, open-source contributors eligible, via funding rounds/RFPs on deepfunding.a... |
 | 🟢 [The Graph Grants](https://thegraph.com/grants/) | Not stated on page (prior: $10K-$100K+ GRT+USDC) | Yes | Open | Rolling; individuals eligible; categories Protocol/Tooling/Data Services/Community; no open RFPs; no AI/MCP... |
 | 🟢 [Giveth (donations + GG QF)](https://giveth.io/) | Ethereum Security QF: 637 ETH pool over 134 projects (Apr 23-May 14 2026) | Yes | Open | Platform open for donations/GIVbacks. Hosted TheDAO Security Fund's Ethereum Security QF round (Apr-May 202... |
 | 🟢 [Solana Foundation AI Grants ($10M Fund)](https://solana.org/grants) | Not stated on page (prior: $5K-$25K USDC+SOL) | Yes | Open | Rolling; individuals explicitly eligible; ~1 week review + ~3 week decision. Must justify why Solana specif... |
-| 🟢 [CDP AI Builder Program (Coinbase)](https://www.coinbase.com/developer-platform/discover/launches/ai-builder-grants) | $5K-$15K pool | Yes | Open | Stable USDC. Lowest-friction LLM agent + wallet. |
+| 🟢 [CDP AI Builder Program (Coinbase)](https://www.coinbase.com/developer-platform/discover/launches/ai-builder-grants) | $5K-$15K pool | Yes | Open | Browser attempt 2026-09-15: coinbase.com shows a browser error page from this network; DNS failure also in ... |
 | 🟢 [Lit Protocol Grants](https://github.com/LIT-Protocol/LitGrants) | $2.5K-$10K USDC | Yes | Open | JS SDK = AI dev friendly. No Solidity req. |
 | 🟢 [Base Builder Grants](https://docs.base.org/get-started/get-funded) | New Builder Grant Program up to $5K (USD); legacy retro 1-5 ETH | Yes | Open | docs page now lists only Base Ecosystem Fund (VC) and Base Batches ($100K investment). Press (Aug 2026) rep... |
 | 🟢 [Tether Developer Grants & Bounties (QVAC / WDK / Pears / MOS)](https://tether.dev/grants/) | $1,500-$4,000 per task; bounties seen at 5,000 USDT | Yes | Open | Launched May 11 2026. Pays USDT or BTC, tied to deliverables, no cap on total payouts. Five areas incl. QVA... |
 | 🟢 [Base Builder Rewards (Talent Protocol)](https://www.base.org/build) | 2 ETH/week split | Yes | Open | Onchain reputation-driven. |
 | 🟢 [Render Network grants](https://rendernetwork.com/grants) | Not stated (RENDER) | Yes | Open | Render Network Foundation grants target artists and GPU rendering/AI creative projects. Not a dev-tooling p... |
-| 🟡 [Aleph Zero Ecosystem](https://alephzero.org/ecosystem-funding-program) | $10K-$500K | Conditional | Open | $100K AWS credits + Kudelski audits bundled. |
 | 🟡 [Filecoin ProPGF](https://fil.org/grants) | Avg ~$260K | Conditional | Open | 2nd round Q4 2025/2026. |
-| 🟡 [Polygon Community Grants S2](https://polygon.questbook.xyz/) | $10K-$100K | Conditional | Open | Eliza Labs allocator track for AI agents. |
 | 🟡 [Olas Accelerator](https://olas.network/build) | Up to $100K per agent (OLAS); Dev Rewards paused | Conditional | Open | Accelerator ($1M pool, up to $100K) for agents on Pearl is active; Dev Rewards program is paused. KYC at pa... |
 | 🟡 [Story Protocol Ecosystem](https://www.story.foundation/) | $10K-$100K+ | Conditional | Open | Confidential Data Rails Apr 2026 = AI training-data provenance. |
 | 🟡 [Filecoin Dev Grants](https://github.com/filecoin-project/devgrants) | Open Grants up to $50K (FIL) | Conditional | Open | Active repo (979 commits). Open Grants up to $50K; RFP section says 'Stay tuned!' (none open). Must serve F... |
@@ -314,21 +312,23 @@ _41 programs_
 | 🟡 [Sui Foundation Grants](https://www.sui.io/programs-funding) | $25K academic research awards; RFPs; Hydropower accelerator (no upfront equity) | Conditional | Open | Programs: Hydropower accelerator, $25K Academic Research Awards, direct investment, RFPs. Sui-specific. |
 | 🟡 [Vana Grants](https://vana.org/participate) | Not stated on page (prior: $5K-$25K+ VANA) | Conditional | Open | docs URL 404s; vana.org/participate lists grants as ROLLING for tools, DataDAOs, research; guide at docs.va... |
 | 🟡 [Allora Network grants/Forge](https://www.allora.network/) | Not stated (Forge competition + testnet bounties) | Conditional | Open | Model Forge = ML competition/incubator; testnet bounties for vulnerabilities/throughput. No amounts. |
-| 🟡 [io.net Early Suppliers](https://io.net/) | RENDER-denominated | Conditional | Open | Pays providers not builders. |
-| 🟡 [Fetch.ai Startup Accelerator](https://fetch.ai) | Varies (FET) | Conditional | Open | Mentorship + check. |
-| 🟡 [Morpheus Bidding](https://mor.org/) | Varies (MOR) | Conditional | Open | True bounty market. Freelance cadence. |
 | 🟡 [Subspace Foundation Grants (Autonomys AI3.0)](https://subspace.foundation/grants) | Unstated; paid in gas credits, $AI3, stablecoins or USD | Conditional | Open | Five categories (infra, AI dApps, research, community, integration). Stablecoin/USD payout possible. Projec... |
 | 🟡 [Optimism Foundation Missions](https://github.com/ethereum-optimism/ecosystem-contributions) | Varies (OP) | Yes | Conditional | Repo still up but the only open Foundation Mission Requests are 2025 items (NERD programs S7/S8, interop or... |
 | 🟡 [Gitcoin Grants (GG24/GG25)](https://gitcoin.co/campaigns) | GG24 distributed $1.8M (Oct 2025); no GG25 dates posted | Yes | Conditional | grants.gitcoin.co does not resolve from here. gitcoin.co/campaigns lists only ongoing TheDAO Security Fund ... |
 | 🟡 [Ethereum Foundation ESP](https://esp.ethereum.foundation/) | Scope-based; Small Grants cap $30K; paid in ETH | Yes | Conditional | Restructured mid-2026 into Wishlist + RFP pathways. As of Sept 2026 no active Wishlists and no open rounds;... |
 | 🔴 [Optimism RetroPGF / Retro Funding](https://atlas.optimism.io/) | Growth Grants up to 3.89M OP (Season 9); classic Retro Funding discontinued | Yes | Closed | retrofunding.optimism.io now 301s to OP Atlas (JS-only, unreadable by fetch). Aug 2026 reporting says the R... |
 | 🔴 [Arbitrum Foundation General Grants](https://arbitrum.foundation/grants) | Audit subsidies ($10M ARB pool), ArbiFuel gas sponsorship, Alchemy credits up to $500K | Conditional | Closed | General grants closed. Only active: Arbitrum Audit Program (audit subsidies), ArbiFuel (gas), Arbitrum Gami... |
+| 🔴 [Aleph Zero Ecosystem](https://alephzero.org/ecosystem-funding-program) | $10K-$500K | Conditional | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): /ecosystem-funding-program redirects to the alephzero.org ho... |
+| 🔴 [Polygon Community Grants S2](https://polygon.questbook.xyz/) | $10K-$100K | Conditional | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): polygon.questbook.xyz shows a browser error page (site gone). |
 | 🔴 [Bittensor Subnet Bounties](https://bittensor.com/docs) | None (TAO emissions only for subnet participants) | Conditional | Closed | Docs domain redirected; docs describe TAO emissions to subnet participants, no grants/bounty program. |
 | 🔴 [MakerDAO/Sky Dev Grants](https://community-development.makerdao.com/en/programs/development-grants) | Up to $100K DAI | Yes | Closed | Currently paused May 2026. |
 | 🔴 [ai16z / ElizaOS Grants](https://elizaresearch.ai/) | None visible | Conditional | Closed | elizaos.ai redirects to elizaresearch.ai; no grants program listed, only slop.cash (swarm bounty board) and... |
 | 🔴 [EF PhD Fellowship](https://esp.ethereum.foundation/rounds/phdfp26) | $24K/yr supplement | No | Closed | PhD-only; proposals were due Apr 22 2026. Closed. |
 | 🔴 [Arbitrum Trailblazer AI Grant](https://arbitrum.foundation/grants) | Was up to $10K (ARB) | Yes | Closed | Medium post now 403s. The foundation grants page marks Trailblazer 2.0 and the DAO Grant Program as 'Progra... |
+| 🔴 [io.net Early Suppliers](https://io.net/) | RENDER-denominated | Conditional | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): io.net homepage is a GPU marketplace ('H100s from $2.19/hr')... |
+| 🔴 [Fetch.ai Startup Accelerator](https://fetch.ai) | Varies (FET) | Conditional | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): fetch.ai homepage is the ASI:One / Agentverse consumer produ... |
 | 🔴 [Theoriq](https://www.theoriq.ai/) | None | Conditional | Closed | Site lists backers only; no grants/emissions program for builders. |
+| 🔴 [Morpheus Bidding](https://mor.org/) | Varies (MOR) | Conditional | Closed | Browser-verified 2026-09-15 (Brave, Mac Mini): mor.org is now a staking / decentralised inference product p... |
 
 ## Production & Revenue Paths
 
@@ -341,24 +341,23 @@ _59 programs_
 | 🟢 [Manifund](https://manifund.org/about/open-call) | Open call: any amount you set; AI-safety regrants typically $5K-$50K | Yes | Open | Anyone can post a public proposal; funded if donors/regrantors hit your stated minimum; must be a public-be... |
 | 🟢 [Anthropic AI Safety Bounty](https://hackerone.com/anthropic) | Public security bounty up to ~$10K-$15K per finding (secondary); Model Safety track up to $35K per universal jailbreak | Yes | Open | Two programs. (1) Public security bounty on HackerOne since May 7-8 2026, open to anyone; Claude Code scope... |
 | 🟢 [Microsoft Copilot Bounty Program](https://www.microsoft.com/en-us/msrc/bounty-ai) | $250-$30,000 | Yes | Open | Active, updated Apr 7 2026; scope is Copilot web/Edge/mobile/Windows/WhatsApp/Telegram. Prompt injection wi... |
-| 🟢 [n8n template marketplace](https://n8n.io) | $20-200/template; $2.5K-20K/mo possible | Yes | Open | DIY discovery. |
+| 🟢 [n8n template marketplace](https://n8n.io) | $20-200/template; $2.5K-20K/mo possible | Yes | Open | Browser-verified 2026-09-15 (Brave, Mac Mini): n8n.io homepage shows no paid template marketplace or creato... |
 | 🟢 [Google AI Vulnerability Reward Program](https://bughunters.google.com/about/rules/google-friends/ai-vulnerability-reward-program-rules) | Up to $20,000 (S1 Rogue Actions, flagship); $15,000 exfiltration; $5,000 context manipulation | Yes | Open | Launched Oct 2025; covers Gemini apps, Workspace, Home agents. Rewards indirect prompt injection that cause... |
 | 🟢 [Lablab.ai events](https://lablab.ai/event) | $10K pools typical (e.g. AssemblyAI Voice Agent: $5K cash + $5K credits) | Yes | Open | Live calendar: AssemblyAI Voice Agent Hackathon Sep 1-30 ($10K: $5K cash + $5K credits), IBM Bob 2.0 Sep 25... |
-| 🟢 [Algora Bounties](https://algora.io) | $50-$5K/issue | Yes | Open | 2-7 days post-merge. 100% to dev. |
+| 🟢 [Algora Bounties](https://algora.io) | $50-$5K/issue | Yes | Open | Browser attempt 2026-09-15: algora.io/bounties rendered an error page. Unverified; prior notes stand. |
 | 🟢 [IssueHunt](https://issuehunt.io) | $10-$2K per issue; bank or PayPal payout; ~20% fee (secondary) | Yes | Open | Live; heavy tilt to Japanese companies but English program pages and international payouts. 20% platform cu... |
 | 🟢 [Apart Research sprints (AI Collusion Research Sprint, Oct 23-25 2026)](https://apartresearch.com/sprints) | Cash prizes, typically at least USD 2,000 per sprint | Yes | Open | Weekend research hackathons; top teams fast-tracked to Apart Fellowship. Next: AI Collusion Research Sprint... |
 | 🟢 [Catalant](https://www.catalant.com) | Rates/markup not published | Yes | Open | /experts is 404; root page invites independent consultants to 'Grow Your Practice' and cites 700+ businesse... |
 | 🟢 [Continuum](https://continuum.works) | $150-400/hr | Yes | Open | Higher bar. |
 | 🟢 [Toptal AI](https://www.toptal.com/developers/join) | Set your own hourly rate; hourly engagements with no weekly minimum | Yes | Open | Join page: work from anywhere, set your rate, Toptal bills clients; hourly track has no weekly minimum (com... |
 | 🟢 [A.Team](https://www.a.team) | Rates not published | Yes | Open | Active; now pitches agentic-AI delivery and forward-deployed engineers. Join via /join; NY/Tel Aviv based. |
-| 🟢 [Slack App Directory](https://slack.com/marketplace) | 100% to you (you bill) | Yes | Open | App review gating. 2600+ apps. |
-| 🟢 [Notion Integrations / Templates](https://notion.so) | 100% (you bill) | Yes | Open | Discovery is hard. |
-| 🟢 [Linear Apps](https://linear.app) | 100% to you | Yes | Open | Small TAM. |
-| 🟢 [Zapier App Directory](https://zapier.com) | 100% (you bill) | Yes | Open | Weeks for review. |
-| 🟢 [Replicate](https://replicate.com) | ~70-80% of compute margin | Yes | Open | 30-60 day net. Cold-start kills long tail. |
-| 🟢 [Brex Capital](https://brex.com) | Variable | Yes | Open | Capital One acquired Apr 2026. |
-| 🟢 [Modal](https://modal.com) | Pay infra charge users | Yes | Open | You own pricing infra cost is yours. |
-| 🟢 [Hugging Face Inference Endpoints](https://huggingface.co/inference-endpoints) | $0.06/CPU-hr $0.60+/GPU-hr | Yes | Open | You eat idle cost. |
+| 🟢 [Slack App Directory](https://slack.com/marketplace) | 100% to you (you bill) | Yes | Open | App review gating. 2600+ apps. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincor... |
+| 🟢 [Notion Integrations / Templates](https://notion.so) | 100% (you bill) | Yes | Open | Discovery is hard. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU a... |
+| 🟢 [Linear Apps](https://linear.app) | 100% to you | Yes | Open | Small TAM. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU applicant... |
+| 🟢 [Zapier App Directory](https://zapier.com) | 100% (you bill) | Yes | Open | Weeks for review. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU ap... |
+| 🟢 [Replicate](https://replicate.com) | ~70-80% of compute margin | Yes | Open | 30-60 day net. Cold-start kills long tail. \| Not re-fetched 2026-09-15: structurally not applicable to a s... |
+| 🟢 [Modal](https://modal.com) | Pay infra charge users | Yes | Open | You own pricing infra cost is yours. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, u... |
+| 🟢 [Hugging Face Inference Endpoints](https://huggingface.co/inference-endpoints) | $0.06/CPU-hr $0.60+/GPU-hr | Yes | Open | You eat idle cost. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU a... |
 | 🟢 [Cursor Plugin Marketplace](https://cursor.com/marketplace) | $0 direct (no monetization published) | Yes | Open | CHANGED: marketplace is live with a public 'Publish' link and docs, so submissions are no longer partner-on... |
 | 🟢 [Anthropic MCP Marketplace](https://claude.com/partners/mcp) | $0 direct: connector directory listing only | Yes | Open | URL CHANGED (301 to claude.com/partners/mcp). Page is a Claude connectors directory (811 connectors) with a... |
 | 🟢 [OpenAI Safety Bug Bounty (Bugcrowd)](https://openai.com/index/safety-bug-bounty/) | Per-report rewards not on readable page; $1M annual pool per secondary (wraith.sh) | Yes | Open | Launched Mar 25 2026 as a PUBLIC program distinct from the Security Bug Bounty; explicitly targets agentic ... |
@@ -372,7 +371,7 @@ _59 programs_
 | 🟡 [Open Source Collective fiscal hosting](https://docs.oscollective.org/interested-in-joining-osc/acceptance-criteria) | 10% host fee on incoming funds | Conditional | Open | Requires OSI-style license, repo under an organization (not a personal account) and preferably 2+ admins; a... |
 | 🟡 [Wayflyer](https://www.wayflyer.com) | EUR 5K-EUR 20M; needs EUR 10K+ monthly revenue and 6 months trading | Conditional | Conditional | CHANGED amount to EUR 5K-EUR 20M. Germany is explicitly served. Requires EUR 10K+ monthly revenue and 6 mon... |
 | 🟡 [Lighter Capital](https://lightercapital.com) | Up to $10M; needs $200K ARR or $15K MRR; HQ in US/CA/AU | Conditional | Conditional | CHANGED amount (up to $10M). Requires a HQ, branch or subsidiary in the US, Canada or Australia and $200K A... |
-| 🟡 [Arc Technologies](https://arc.tech) | Up to $10M | No | Conditional | Integrated with bank. |
+| 🟡 [Arc Technologies](https://www.joinarc.com/) | Up to $10M | No | Conditional | Browser-verified 2026-09-15 (Brave, Mac Mini): arc.tech now redirects to joinarc.com: cash management, trea... |
 | 🟡 [ETHGlobal AI Tracks](https://ethglobal.com/events) | Hackathon prize pools (not on events page) | Yes | Conditional | Events page lists no prize pools; only ETHConf 2027 (Jun 14-16, NYC) appeared after Sept 2026 in the fetche... |
 | 🟡 [Pipe](https://pipe.com) | Embedded capital via partner platforms; pre-approved offers based on transaction data | No | Conditional | Fully pivoted to embedded capital for vertical SaaS / payfac / marketplace platforms; no direct SaaS ARR tr... |
 | 🟡 [OpenAI GPT-5.5 Bio Bounty](https://openai.com/index/bio-bug-bounty/) | Up to $50,000 per universal bio jailbreak (raised from $25K); GPT-5.5 window closed Jul 27 2026, program continues for GPT-5.6 | Conditional | Conditional | CHANGED: reward doubled to $50K and program made ongoing (now covers GPT-5.6); GPT-5.5 testing ended Jul 27... |
@@ -382,10 +381,11 @@ _59 programs_
 | 🟡 [Capchase](https://www.capchase.com) | Vendor financing / BNPL for B2B software purchases; 9 countries | No | Conditional | Pivoted to vendor financing and BNPL for B2B software buyers; no revenue-based financing terms or minimum A... |
 | 🟡 [Mercury Venture Debt](https://mercury.com/venture-debt) | Loan amounts subject to eligibility; US-incorporated, VC-backed only | No | Conditional | US-incorporated companies that raised VC in the last 12 months; California excluded. Dead end for a non-VC ... |
 | 🟡 [Stripe Capital](https://stripe.com/capital) | Fixed fee ~10% of loan; offers only to selected US Stripe accounts | Conditional | Conditional | CHANGED: page states Capital is currently offered to selected businesses in the USA only; not available to ... |
+| 🟡 [Brex Capital](https://brex.com) | Variable | No | Conditional | Browser-verified 2026-09-15 (Brave, Mac Mini): brex.com homepage shows cards, banking, expenses; no 'Brex C... |
 | 🟡 [Acquire.com financing](https://acquire.com) | Buyer-side acquisition financing (details not published) | Conditional | Conditional | Homepage only says buyers can 'Get help to acquire with acquisition financing'; no lender, terms or eligibi... |
 | 🟡 [GPT Store rev-share](https://chatgpt.com/gpts) | ~$0.03/conversation | Conditional | Conditional | 33K convos = $1K/mo. Volume play only. |
-| 🟡 [Together AI fine-tunes](https://together.ai) | Per-token rev unclear | Conditional | Conditional | Compete with base models. |
-| 🟡 [Vercel AI Marketplace / Plugin](https://vercel.com) | $0 direct | No | Conditional | Marketing channel. |
+| 🟡 [Together AI fine-tunes](https://together.ai) | Per-token rev unclear | Conditional | Conditional | Compete with base models. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporat... |
+| 🟡 [Vercel AI Marketplace / Plugin](https://vercel.com) | $0 direct | No | Conditional | Marketing channel. \| Not re-fetched 2026-09-15: structurally not applicable to a solo, unincorporated EU a... |
 | 🔴 [Konwinski Prize](https://www.kaggle.com/competitions/konwinski-prize) | $1.225M pool; completed | Conditional | Closed | CHANGED to closed: Kaggle leaderboard states the competition has completed and final standings are posted (... |
 | 🔴 [Calm Company Fund (was Earnest)](https://calmfund.com) | Paused: no new investments since 2024 | Yes | Closed | CHANGED to closed: calmfund.com root 404s; the fund's own 'taking a break' post says it paused reviewing ap... |
 | 🔴 [TinySeed](https://tinyseed.com) | ~$200K equity accelerator (terms not on page) | Yes | Closed | CHANGED: 'TinySeed Accelerator Applications Will Resume in Spring 2027' (fall 2026 batch skipped). Equity i... |
