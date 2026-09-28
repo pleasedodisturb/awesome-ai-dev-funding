@@ -62,16 +62,16 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "closed",
-      "notes": "Research Awards track ($10-50K) confirmed closed as of 2026-09-28: page states 'We are not currently accepting applications.' No reopening date given; page also still shows stale 2025 symposia dates, so re-check before relying on other page details."
+      "status": "open",
+      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
       "name": "Anthropic External Researcher Access",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "$1,000 in API credits (higher in rare cases)",
-      "amount_max_usd": 1000,
+      "amount": "Credits (undisclosed)",
+      "amount_max_usd": null,
       "type": "Credits",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes (alignment research)",
@@ -79,7 +79,7 @@
       "geography": "Global",
       "url": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
       "status": "open",
-      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle. Confirmed 2026-09-28: standard award is $1,000 in API credits; no API access in countries where Claude isn't officially available (EU/Germany is available)."
+      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle."
     },
     {
       "id": "ai-lab-credits-anthropic-startup-program",

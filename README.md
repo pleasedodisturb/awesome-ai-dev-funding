@@ -34,15 +34,16 @@ _31 programs_
 | 🟢 [Microsoft for Startups Founders Hub](https://www.microsoft.com/en-us/startups) | $1K–$150K Azure (incl. Azure OpenAI) | Yes | Open | Backdoor to GPT-4o/o-series via Azure OpenAI. 12-mo expiry. |
 | 🟢 [Together AI Startup Accelerator](https://www.together.ai/startup-accelerator) | Up to $50K | Yes | Open | Best non-equity credits for fine-tuning open models. Top pick #4. |
 | 🟢 [Modal Academics / Startup](https://modal.com/academics) | $10K (academics) / $25K (startup) | Yes | Open | Best general-purpose serverless GPU credits. One-time per tier. |
-| 🟢 [Anthropic External Researcher Access](https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program) | $1,000 in API credits (higher in rare cases) | Yes | Open | Most realistic Anthropic path for solo dev w/ alignment angle. Confirmed 2026-09-28: standard award is $1,0... |
 | 🟢 [xAI Grok Credits / Data Sharing](https://x.ai/api) | $25 signup + $150/mo (data share) | Yes | Open | Free $150/mo if non-sensitive. No formal startup program. |
 | 🟢 [Hugging Face Pro / Compute Grants](https://huggingface.co/pricing) | $9/mo Pro; ZeroGPU grants ad-hoc | Yes | Open | Best path for shipping public AI demo as Space. |
 | 🟢 [SambaNova Free Tier](https://cloud.sambanova.ai/plans) | $5 credit + persistent free | Yes | Open | Backup for 405B inference. OpenAI-compatible. |
+| 🟢 [Anthropic External Researcher Access](https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program) | Credits (undisclosed) | Yes | Open | Most realistic Anthropic path for solo dev w/ alignment angle. |
 | 🟢 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | A few hundred dollars | Yes | Open | Lowest-friction open-model credits. Stack with $25 signup. |
 | 🟢 [fal Research Grants](https://fal.ai/grants) | Free compute (undisclosed $) | Yes | Open | Email grants@fal.ai. Gen-AI media focus. |
 | 🟡 [OpenAI Researcher Access Program](https://openai.smapply.org/prog/openai_researcher_access_program/) | Up to $1K / 12 mo | Conditional | Open | Quarterly review (Mar/Jun/Sep/Dec). Easy small grant. |
 | 🟠 [Anthropic AI for Science](https://www.anthropic.com/ai-for-science-program-rules) | Up to $20K / 6 mo | No | Open | First Monday monthly review. Bio/life sciences focus. Top pick #1 if academic affiliation. |
 | 🟡 [Meta Llama Startup Program](https://www.llama.com/programs/startups/) | Up to $36K ($6K x 6 mo) | Conditional | Open | Best non-equity Llama credits. US-only filter. |
+| 🟡 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Open | Quarterly cycles; next ~June 2026. Empirical economics framing required. |
 | 🟡 [Mistral Mistralship](https://mistral.ai) | €30K (~$33K) La Plateforme credits | Conditional | Open | No-VC required EU credit program. Cohort-based. |
 | 🟡 [Groq for Startups](https://groq.com) | $10K | Conditional | Open | Pitch agentic workloads needing many sequential calls. |
 | 🟡 [Perplexity Sonar Startup](https://www.perplexity.ai/api-platform) | ~$5K | Conditional | Open | Only if grounded web search needed. |
@@ -58,7 +59,6 @@ _31 programs_
 | 🟡 [Cohere Startup Program](https://cohere.com/startup-program-application) | Up to 25% discount | Conditional | Conditional | Discount only — not pure credits. Skip for token-grant goals. |
 | 🟡 [Google AI Studio Free Tier](https://ai.google.dev/gemini-api/docs/billing) | $0 (always-on) | Yes | Conditional | Limits cut 50–80% Dec 2025; Pro paywalled Apr 1 2026. |
 | 🟡 [Replicate (via AI Grant)](https://replicate.com) | Credits + cash via partner | No | Conditional | No standalone OSS program. Pursue AI Grant directly. |
-| 🔴 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Closed | Research Awards track ($10-50K) confirmed closed as of 2026-09-28: page states 'We are not currently accept... |
 | 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Cohort 2 closed Jan 12 2026. No Cohort 3 dates. |
 
 ## OSS Framework Grants
