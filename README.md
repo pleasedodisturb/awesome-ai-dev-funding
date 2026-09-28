@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-09-28.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **115 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -267,7 +267,6 @@ _39 programs_
 | 🟢 [Base Builder Grants](https://docs.base.org/get-started/get-funded) | 1-5 ETH (~$3K-$15K) | Yes | Open | Public nominations. AgentKit fast-tracks. |
 | 🟢 [CDP AI Builder Program (Coinbase)](https://www.coinbase.com/developer-platform/discover/launches/ai-builder-grants) | $5K-$15K pool | Yes | Open | Stable USDC. Lowest-friction LLM agent + wallet. |
 | 🟢 [Arbitrum Trailblazer AI Grant](https://arbitrumfoundation.medium.com/trailblazer-1m-grants-to-power-ai-innovation-on-arbitrum-c6de1200e656) | Up to $10K | Yes | Open | $1M pool. KYC required. |
-| 🟢 [Lit Protocol Grants](https://github.com/LIT-Protocol/LitGrants) | $2.5K-$10K USDC | Yes | Open | JS SDK = AI dev friendly. No Solidity req. |
 | 🟢 [Base Builder Rewards (Talent Protocol)](https://www.base.org/build) | 2 ETH/week split | Yes | Open | Onchain reputation-driven. |
 | 🟡 [Aleph Zero Ecosystem](https://alephzero.org/ecosystem-funding-program) | $10K-$500K | Conditional | Open | $100K AWS credits + Kudelski audits bundled. |
 | 🟡 [Filecoin ProPGF](https://fil.org/grants) | Avg ~$260K | Conditional | Open | 2nd round Q4 2025/2026. |
@@ -292,6 +291,7 @@ _39 programs_
 | 🟡 [ai16z / ElizaOS Grants](https://www.elizaos.ai/) | ~$5K-$50K typical | Conditional | Conditional | Class-action drama — verify before committing. |
 | 🔴 [MakerDAO/Sky Dev Grants](https://community-development.makerdao.com/en/programs/development-grants) | Up to $100K DAI | Yes | Closed | Currently paused May 2026. |
 | 🔴 [EF PhD Fellowship](https://esp.ethereum.foundation) | $24K/yr supplement | No | Closed | Apr 22 2026 deadline. |
+| 🔴 [Lit Protocol Grants](https://github.com/LIT-Protocol/LitGrants) | $2.5K-$10K USDC | Yes | Closed | URL dead (github.com/LIT-Protocol/LitGrants returns 404 as of 2026-09-28). No replacement grants page found... |
 
 ## Production & Revenue Paths
 

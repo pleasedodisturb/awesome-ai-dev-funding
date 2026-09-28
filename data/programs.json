@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-09-28",
   "total": 278,
   "categories": [
     {
@@ -3630,8 +3630,8 @@
       "entity": "AI agents w/ keys (TEE)",
       "geography": "Global",
       "url": "https://github.com/LIT-Protocol/LitGrants",
-      "status": "open",
-      "notes": "JS SDK = AI dev friendly. No Solidity req."
+      "status": "closed",
+      "notes": "URL dead (github.com/LIT-Protocol/LitGrants returns 404 as of 2026-09-28). No replacement grants page found. Marked closed pending a live URL."
     },
     {
       "id": "crypto-web3-grants-the-graph-grants",
