@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-09-28.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **115 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -34,16 +34,15 @@ _31 programs_
 | 🟢 [Microsoft for Startups Founders Hub](https://www.microsoft.com/en-us/startups) | $1K–$150K Azure (incl. Azure OpenAI) | Yes | Open | Backdoor to GPT-4o/o-series via Azure OpenAI. 12-mo expiry. |
 | 🟢 [Together AI Startup Accelerator](https://www.together.ai/startup-accelerator) | Up to $50K | Yes | Open | Best non-equity credits for fine-tuning open models. Top pick #4. |
 | 🟢 [Modal Academics / Startup](https://modal.com/academics) | $10K (academics) / $25K (startup) | Yes | Open | Best general-purpose serverless GPU credits. One-time per tier. |
+| 🟢 [Anthropic External Researcher Access](https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program) | $1,000 in API credits (higher in rare cases) | Yes | Open | Most realistic Anthropic path for solo dev w/ alignment angle. Confirmed 2026-09-28: standard award is $1,0... |
 | 🟢 [xAI Grok Credits / Data Sharing](https://x.ai/api) | $25 signup + $150/mo (data share) | Yes | Open | Free $150/mo if non-sensitive. No formal startup program. |
 | 🟢 [Hugging Face Pro / Compute Grants](https://huggingface.co/pricing) | $9/mo Pro; ZeroGPU grants ad-hoc | Yes | Open | Best path for shipping public AI demo as Space. |
 | 🟢 [SambaNova Free Tier](https://cloud.sambanova.ai/plans) | $5 credit + persistent free | Yes | Open | Backup for 405B inference. OpenAI-compatible. |
-| 🟢 [Anthropic External Researcher Access](https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program) | Credits (undisclosed) | Yes | Open | Most realistic Anthropic path for solo dev w/ alignment angle. |
 | 🟢 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | A few hundred dollars | Yes | Open | Lowest-friction open-model credits. Stack with $25 signup. |
 | 🟢 [fal Research Grants](https://fal.ai/grants) | Free compute (undisclosed $) | Yes | Open | Email grants@fal.ai. Gen-AI media focus. |
 | 🟡 [OpenAI Researcher Access Program](https://openai.smapply.org/prog/openai_researcher_access_program/) | Up to $1K / 12 mo | Conditional | Open | Quarterly review (Mar/Jun/Sep/Dec). Easy small grant. |
 | 🟠 [Anthropic AI for Science](https://www.anthropic.com/ai-for-science-program-rules) | Up to $20K / 6 mo | No | Open | First Monday monthly review. Bio/life sciences focus. Top pick #1 if academic affiliation. |
 | 🟡 [Meta Llama Startup Program](https://www.llama.com/programs/startups/) | Up to $36K ($6K x 6 mo) | Conditional | Open | Best non-equity Llama credits. US-only filter. |
-| 🟡 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Open | Quarterly cycles; next ~June 2026. Empirical economics framing required. |
 | 🟡 [Mistral Mistralship](https://mistral.ai) | €30K (~$33K) La Plateforme credits | Conditional | Open | No-VC required EU credit program. Cohort-based. |
 | 🟡 [Groq for Startups](https://groq.com) | $10K | Conditional | Open | Pitch agentic workloads needing many sequential calls. |
 | 🟡 [Perplexity Sonar Startup](https://www.perplexity.ai/api-platform) | ~$5K | Conditional | Open | Only if grounded web search needed. |
@@ -59,6 +58,7 @@ _31 programs_
 | 🟡 [Cohere Startup Program](https://cohere.com/startup-program-application) | Up to 25% discount | Conditional | Conditional | Discount only — not pure credits. Skip for token-grant goals. |
 | 🟡 [Google AI Studio Free Tier](https://ai.google.dev/gemini-api/docs/billing) | $0 (always-on) | Yes | Conditional | Limits cut 50–80% Dec 2025; Pro paywalled Apr 1 2026. |
 | 🟡 [Replicate (via AI Grant)](https://replicate.com) | Credits + cash via partner | No | Conditional | No standalone OSS program. Pursue AI Grant directly. |
+| 🔴 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Closed | Research Awards track ($10-50K) confirmed closed as of 2026-09-28: page states 'We are not currently accept... |
 | 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Cohort 2 closed Jan 12 2026. No Cohort 3 dates. |
 
 ## OSS Framework Grants
@@ -267,7 +267,6 @@ _39 programs_
 | 🟢 [Base Builder Grants](https://docs.base.org/get-started/get-funded) | 1-5 ETH (~$3K-$15K) | Yes | Open | Public nominations. AgentKit fast-tracks. |
 | 🟢 [CDP AI Builder Program (Coinbase)](https://www.coinbase.com/developer-platform/discover/launches/ai-builder-grants) | $5K-$15K pool | Yes | Open | Stable USDC. Lowest-friction LLM agent + wallet. |
 | 🟢 [Arbitrum Trailblazer AI Grant](https://arbitrumfoundation.medium.com/trailblazer-1m-grants-to-power-ai-innovation-on-arbitrum-c6de1200e656) | Up to $10K | Yes | Open | $1M pool. KYC required. |
-| 🟢 [Lit Protocol Grants](https://github.com/LIT-Protocol/LitGrants) | $2.5K-$10K USDC | Yes | Open | JS SDK = AI dev friendly. No Solidity req. |
 | 🟢 [Base Builder Rewards (Talent Protocol)](https://www.base.org/build) | 2 ETH/week split | Yes | Open | Onchain reputation-driven. |
 | 🟡 [Aleph Zero Ecosystem](https://alephzero.org/ecosystem-funding-program) | $10K-$500K | Conditional | Open | $100K AWS credits + Kudelski audits bundled. |
 | 🟡 [Filecoin ProPGF](https://fil.org/grants) | Avg ~$260K | Conditional | Open | 2nd round Q4 2025/2026. |
@@ -292,6 +291,7 @@ _39 programs_
 | 🟡 [ai16z / ElizaOS Grants](https://www.elizaos.ai/) | ~$5K-$50K typical | Conditional | Conditional | Class-action drama — verify before committing. |
 | 🔴 [MakerDAO/Sky Dev Grants](https://community-development.makerdao.com/en/programs/development-grants) | Up to $100K DAI | Yes | Closed | Currently paused May 2026. |
 | 🔴 [EF PhD Fellowship](https://esp.ethereum.foundation) | $24K/yr supplement | No | Closed | Apr 22 2026 deadline. |
+| 🔴 [Lit Protocol Grants](https://github.com/LIT-Protocol/LitGrants) | $2.5K-$10K USDC | Yes | Closed | URL dead (github.com/LIT-Protocol/LitGrants returns 404 as of 2026-09-28). No replacement grants page found... |
 
 ## Production & Revenue Paths
 

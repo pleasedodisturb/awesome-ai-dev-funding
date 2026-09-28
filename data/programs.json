@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-09-28",
   "total": 278,
   "categories": [
     {
@@ -62,16 +62,16 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Research Awards track ($10-50K) confirmed closed as of 2026-09-28: page states 'We are not currently accepting applications.' No reopening date given; page also still shows stale 2025 symposia dates, so re-check before relying on other page details."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
       "name": "Anthropic External Researcher Access",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Credits (undisclosed)",
-      "amount_max_usd": null,
+      "amount": "$1,000 in API credits (higher in rare cases)",
+      "amount_max_usd": 1000,
       "type": "Credits",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes (alignment research)",
@@ -79,7 +79,7 @@
       "geography": "Global",
       "url": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
       "status": "open",
-      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle."
+      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle. Confirmed 2026-09-28: standard award is $1,000 in API credits; no API access in countries where Claude isn't officially available (EU/Germany is available)."
     },
     {
       "id": "ai-lab-credits-anthropic-startup-program",
@@ -3630,8 +3630,8 @@
       "entity": "AI agents w/ keys (TEE)",
       "geography": "Global",
       "url": "https://github.com/LIT-Protocol/LitGrants",
-      "status": "open",
-      "notes": "JS SDK = AI dev friendly. No Solidity req."
+      "status": "closed",
+      "notes": "URL dead (github.com/LIT-Protocol/LitGrants returns 404 as of 2026-09-28). No replacement grants page found. Marked closed pending a live URL."
     },
     {
       "id": "crypto-web3-grants-the-graph-grants",
