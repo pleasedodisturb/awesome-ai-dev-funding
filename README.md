@@ -1,6 +1,6 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-10-04.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
@@ -67,7 +67,7 @@ _24 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
-| 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $1.2K (6mo Max 20x) | Yes | Open | Closes Jun 30 2026. No-brainer if you maintain anything popular. |
+| 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $1.2K (6mo Max 20x) | Yes | Open | Rolling, no deadline on live page as of Oct 2026 (previously listed closing Jun 30 2026 — that date is not ... |
 | 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — appl... |
 | 🟢 [FLOSS/fund (Zerodha)](https://floss.fund/) | $10K–$100K | Yes | Open | $1M annual. funding.json manifest submission. |
 | 🟢 [Daytona Startup Credits](https://www.daytona.io/startups) | $50K credits | Yes | Open | Useful for sandboxed code execution use cases. |
@@ -98,7 +98,7 @@ _46 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
-| 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $200/mo Max plan x 6mo | Yes | Open | Closes Jun 30 2026. |
+| 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $200/mo Max plan x 6mo | Yes | Open | Rolling, no deadline on live page as of Oct 2026 (previously listed closing Jun 30 2026 — that date is not ... |
 | 🟢 [Cerebras Free Tier](https://www.cerebras.ai/pricing) | 1M tokens/day | Yes | Open | Best free tier in 2026. 8K context cap. |
 | 🟢 [Linode/Akamai Rise](https://www.linode.com/start-ups/rise/) | Up to $120K (Y1) | Yes | Open | 3-yr program. Y1 unused doesn't roll. |
 | 🟢 [Oracle for Startups](https://www.oracle.com/cloud/oracle-for-startups/) | Up to ~$100K equiv | Yes | Open | 70% discount on paid usage. Niche AI integrations. |
