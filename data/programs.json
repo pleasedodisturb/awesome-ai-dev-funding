@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-04",
   "total": 278,
   "categories": [
     {
@@ -699,11 +699,11 @@
       "type": "Subscription",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "Maintainer 5K+ stars or 1M+ npm dl/mo",
+      "entity": "Maintainer: 500+ dependent repos / 200K+ mo. downloads / 100+ merged PRs-yr / OpenSSF criticality ≥0.4",
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "Rolling, no deadline on live page as of Oct 2026 (previously listed closing Jun 30 2026 — that date is not stated anywhere on the page). No-brainer if you maintain anything popular."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
@@ -1563,11 +1563,11 @@
       "type": "Subscription",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "OSS maintainer 5K+ stars",
+      "entity": "Maintainer: 500+ dependent repos / 200K+ mo. downloads / 100+ merged PRs-yr / OpenSSF criticality ≥0.4",
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026."
+      "notes": "Rolling, no deadline on live page as of Oct 2026 (previously listed closing Jun 30 2026 — that date is not stated anywhere on the page)."
     },
     {
       "id": "cloud-compute-credits-openai-startup-program-t1",
