@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-10",
   "total": 278,
   "categories": [
     {
@@ -62,16 +62,16 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Research Awards track explicitly 'not currently accepting applications' (verified Oct 2026). Symposia deadlines were 2025-only, no 2026 dates posted. Independent research orgs can still email economicfutures@anthropic.com re: strategic partnerships."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
       "name": "Anthropic External Researcher Access",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Credits (undisclosed)",
-      "amount_max_usd": null,
+      "amount": "$1,000 API credits",
+      "amount_max_usd": 1000,
       "type": "Credits",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes (alignment research)",
@@ -79,39 +79,39 @@
       "geography": "Global",
       "url": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
       "status": "open",
-      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle."
+      "notes": "$1,000 API credits confirmed on primary page (verified Oct 2026); rare cases get more. First-Monday-of-month review. Most realistic Anthropic path for solo dev w/ alignment angle."
     },
     {
       "id": "ai-lab-credits-anthropic-startup-program",
       "name": "Anthropic Startup Program",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "$25K–$100K+",
+      "amount": "Up to $45K partner stack; +$100K API credits (VC-backed only)",
       "amount_max_usd": 100000,
       "type": "Credits",
       "solo_ok": "conditional",
-      "solo_ok_raw": "Conditional (cold $1–5K)",
-      "entity": "Incorporated startup",
+      "solo_ok_raw": "Conditional (bootstrapped OK; cold apps oversubscribed)",
+      "entity": "Bootstrapped–VC-backed startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
       "status": "conditional",
-      "notes": "VC referral effectively required for top tiers."
+      "notes": "Rebranded 'Startup Stack': up to $45K partner discounts/credits, open to bootstrapped startups (no incorporation stated). Extra $100K API credits needs a VC in Anthropic's partner network. Anthropic says it's over capacity on cold $1K credit/Team offers and re-reviewing (verified Oct 2026)."
     },
     {
       "id": "ai-lab-credits-claude-builder-clubs-campus",
       "name": "Claude Builder Clubs / Campus",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Pro + ~$50/mo API",
-      "amount_max_usd": 50,
-      "type": "Credits + Pro",
+      "amount": "$3,600 cash stipend/track (free to join)",
+      "amount_max_usd": 3600,
+      "type": "Cash stipend",
       "solo_ok": "no",
       "solo_ok_raw": "No (students only)",
       "entity": "Students",
-      "geography": "Select unis",
+      "geography": "Global (work authorization in study country required)",
       "url": "https://claude.com/programs/campus",
       "status": "conditional",
-      "notes": "Spring 2026 closed; Fall 2026 open."
+      "notes": "Fall 2026 cohort (Sep 2026-Jun 2027) applications already closed Sep 1-12 (verified Oct 2026). Actual offer is a $3,600 cash stipend per track, not ~$50/mo API as previously listed. Students only — disqualified for this profile regardless."
     },
     {
       "id": "ai-lab-credits-openai-researcher-access-program",
@@ -699,11 +699,11 @@
       "type": "Subscription",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "Maintainer 5K+ stars or 1M+ npm dl/mo",
+      "entity": "500+ dependent repos / 200K+ monthly dl / 100+ merged PRs/yr / 20+ ext. contributors / OpenSSF crit ≥0.4",
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "Eligibility widened, deadline removed (verified Oct 2026): no longer requires 5K+ stars/1M dl/mo — now any of 5 maintainer-activity paths qualify (deps, downloads, PRs, contributors, or criticality score). No stated close date; applications read as rolling. No-brainer if you maintain anything popular."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
@@ -873,13 +873,13 @@
       "amount": "$10K cash + $10K Azure credits",
       "amount_max_usd": 20000,
       "type": "Cash + Credits",
-      "solo_ok": "conditional",
-      "solo_ok_raw": "Conditional",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes — solo maintainers explicitly eligible (team cap 2)",
       "entity": "Critical OSS maintainers",
-      "geography": "Global",
+      "geography": "Global (GitHub Sponsors-supported region)",
       "url": "https://github.com/open-source/github-secure-open-source-fund",
       "status": "open",
-      "notes": "Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups upside, not part of this fund's guaranteed amount."
+      "notes": "Verified Oct 2026: primary page explicitly welcomes solo maintainers (\"apply as a team for a given project, max of 2 people\"), no legal-entity requirement. Multi-session/yr, rolling applications. $150K Azure credits is a separate Microsoft for Startups upside, not part of this fund's guaranteed amount."
     },
     {
       "id": "oss-framework-grants-vercel-ai-accelerator",
