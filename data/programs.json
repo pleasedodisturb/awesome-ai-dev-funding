@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-16",
   "total": 278,
   "categories": [
     {
@@ -62,8 +62,8 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Verified 2026-10-16: primary page now states \"We are not currently accepting applications.\" Research Awards track closed; no reopen date given."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
@@ -86,7 +86,7 @@
       "name": "Anthropic Startup Program",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "$25K–$100K+",
+      "amount": "$45K discounts/credits (+ up to $100K via VC referral)",
       "amount_max_usd": 100000,
       "type": "Credits",
       "solo_ok": "conditional",
@@ -94,8 +94,8 @@
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC referral effectively required for top tiers."
+      "status": "closed",
+      "notes": "Verified 2026-10-16: primary page states \"Our current cohort is now full, and we're not accepting new applications right now.\" Figure corrected: \"up to $45,000 in discounts and credits\"; separate $100K API credits only via VC referral."
     },
     {
       "id": "ai-lab-credits-claude-builder-clubs-campus",
