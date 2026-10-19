@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-19",
   "total": 278,
   "categories": [
     {
@@ -62,8 +62,8 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Verified 2026-10-19: page states \"We are not currently accepting applications\" for Research Awards. Symposia dates on page are stale (2025). Watch for reopening."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
@@ -94,8 +94,8 @@
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC referral effectively required for top tiers."
+      "status": "closed",
+      "notes": "Verified 2026-10-19: page states \"Our current cohort is now full, and we're not accepting new applications right now.\" Watch newsletter for next cohort."
     },
     {
       "id": "ai-lab-credits-claude-builder-clubs-campus",
@@ -703,7 +703,7 @@
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "Verified 2026-10-19: still accepting applications, no stated deadline on page (prior \"Closes Jun 30 2026\" note was stale/incorrect). No-brainer if you maintain anything popular."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
@@ -1534,8 +1534,8 @@
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC partner referral required."
+      "status": "closed",
+      "notes": "Verified 2026-10-19: page states \"Our current cohort is now full, and we're not accepting new applications right now.\" Watch newsletter for next cohort."
     },
     {
       "id": "cloud-compute-credits-anthropic-external-researcher",
@@ -1567,7 +1567,7 @@
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026."
+      "notes": "Verified 2026-10-19: still accepting applications, no stated deadline on page (prior \"Closes Jun 30 2026\" note was stale/incorrect)."
     },
     {
       "id": "cloud-compute-credits-openai-startup-program-t1",
@@ -4077,9 +4077,9 @@
       "solo_ok_raw": "Yes",
       "entity": "MCP server builders",
       "geography": "Global",
-      "url": "https://www.anthropic.com/partners/mcp",
+      "url": "https://claude.com/partners/mcp",
       "status": "open",
-      "notes": "Top earner ~£400 MRR. First-mover wins."
+      "notes": "URL moved (301) from anthropic.com/partners/mcp, verified 2026-10-19. Top earner ~£400 MRR. First-mover wins."
     },
     {
       "id": "production-revenue-zapier-app-directory",
