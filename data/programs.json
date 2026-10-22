@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-22",
   "total": 278,
   "categories": [
     {
@@ -62,8 +62,8 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Research Awards track: \"We are not currently accepting applications\" (verified 2026-10-22). No reopen date given."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
@@ -86,7 +86,7 @@
       "name": "Anthropic Startup Program",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "$25K–$100K+",
+      "amount": "Up to $45K discounts/credits + $100K API credits via VC",
       "amount_max_usd": 100000,
       "type": "Credits",
       "solo_ok": "conditional",
@@ -94,8 +94,8 @@
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC referral effectively required for top tiers."
+      "status": "closed",
+      "notes": "\"Not accepting new applications right now\" — cohort full (verified 2026-10-22). Current members keep access. Extra $100K credits still VC-referral only."
     },
     {
       "id": "ai-lab-credits-claude-builder-clubs-campus",
@@ -110,8 +110,8 @@
       "entity": "Students",
       "geography": "Select unis",
       "url": "https://claude.com/programs/campus",
-      "status": "conditional",
-      "notes": "Spring 2026 closed; Fall 2026 open."
+      "status": "closed",
+      "notes": "\"Closed for Fall 2026\" (verified 2026-10-22) — window was Sep 1–12 2026. Students only; 18+ w/ work auth in country of study."
     },
     {
       "id": "ai-lab-credits-openai-researcher-access-program",
@@ -703,7 +703,7 @@
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "No fixed deadline (prior \"closes Jun 30 2026\" claim is stale) — rolling until 10K-recipient cap or Anthropic closes it (verified 2026-10-22)."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
