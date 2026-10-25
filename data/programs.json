@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-25",
   "total": 278,
   "categories": [
     {
@@ -62,16 +62,16 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Research Awards track closed — primary page states \"We are not currently accepting applications\" (verified 2026-10-25). No next-cycle date given; remaining listed dates are for the separate Symposia track (2025, already passed)."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
       "name": "Anthropic External Researcher Access",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Credits (undisclosed)",
-      "amount_max_usd": null,
+      "amount": "$1,000 in API credits (typical)",
+      "amount_max_usd": 1000,
       "type": "Credits",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes (alignment research)",
@@ -79,7 +79,7 @@
       "geography": "Global",
       "url": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
       "status": "open",
-      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle."
+      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle. Primary page (verified 2026-10-25): \"If successful, we will apply $1000 in API credits to the account.\" Higher amounts possible in rare cases; monthly review, first Monday of each month."
     },
     {
       "id": "ai-lab-credits-anthropic-startup-program",
@@ -699,11 +699,11 @@
       "type": "Subscription",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "Maintainer 5K+ stars or 1M+ npm dl/mo",
+      "entity": "500+ dependent repos/100+ dependent packages/200K+ monthly downloads, OR listed maintainer on a recognized foundation/language project, OR 100+ merged PRs into repos you don't own (12mo), OR a repo with 20+ unique external contributors (12mo), OR OpenSSF criticality score ≥0.4",
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "No-brainer if you qualify. Eligibility widened and the prior \"Closes Jun 30 2026\" deadline is gone — primary page (verified 2026-10-25) states no application deadline; borderline maintainers are invited to apply and explain. Subscription ends after the 6-month complimentary period."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
