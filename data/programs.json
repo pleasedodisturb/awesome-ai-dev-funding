@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-28",
   "total": 278,
   "categories": [
     {
@@ -38,16 +38,16 @@
       "name": "Anthropic AI for Science",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Up to $20K / 6 mo",
-      "amount_max_usd": 6000000,
+      "amount": "Discretionary credits (amount not specified)",
+      "amount_max_usd": null,
       "type": "Credits",
-      "solo_ok": "no",
-      "solo_ok_raw": "No (academic only)",
-      "entity": "Academic/nonprofit",
+      "solo_ok": "conditional",
+      "solo_ok_raw": "Conditional (individuals OK; org field on application unclear for solo w/ no entity)",
+      "entity": "Individual OK, no institution required",
       "geography": "Global",
       "url": "https://www.anthropic.com/ai-for-science-program-rules",
       "status": "open",
-      "notes": "First Monday monthly review. Bio/life sciences focus. Top pick #1 if academic affiliation."
+      "notes": "Verified 2026-10-28: official rules (updated Oct 20, 2026) do not require academic/nonprofit affiliation and state no fixed $ amount (prior listing's '$20K/6mo' unsupported by current rules text). Credits go to 'the account for the organization identified in your application' — unclear how a true solo individual w/o an org handles this field."
     },
     {
       "id": "ai-lab-credits-anthropic-economic-futures",
@@ -70,8 +70,8 @@
       "name": "Anthropic External Researcher Access",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Credits (undisclosed)",
-      "amount_max_usd": null,
+      "amount": "$1,000 API credits (typical); higher only in rare exceptions, no stated cap",
+      "amount_max_usd": 1000,
       "type": "Credits",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes (alignment research)",
@@ -79,7 +79,7 @@
       "geography": "Global",
       "url": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
       "status": "open",
-      "notes": "Most realistic Anthropic path for solo dev w/ alignment angle."
+      "notes": "Verified 2026-10-28: primary page states '$1000 in API credits' if approved, with 'rare special cases' higher (no cap given). Prior listing understated detail as 'undisclosed'. Most realistic Anthropic path for solo dev w/ alignment angle."
     },
     {
       "id": "ai-lab-credits-anthropic-startup-program",
@@ -89,29 +89,29 @@
       "amount": "$25K–$100K+",
       "amount_max_usd": 100000,
       "type": "Credits",
-      "solo_ok": "conditional",
-      "solo_ok_raw": "Conditional (cold $1–5K)",
+      "solo_ok": "no",
+      "solo_ok_raw": "No (cohort full)",
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC referral effectively required for top tiers."
+      "status": "closed",
+      "notes": "Verified 2026-10-28: primary page states 'Our current cohort is now full, and we're not accepting new applications right now.' Was listed 'conditional' (VC-referral dependent); now flatly closed regardless of referral. Re-check for next cohort opening."
     },
     {
       "id": "ai-lab-credits-claude-builder-clubs-campus",
       "name": "Claude Builder Clubs / Campus",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "Pro + ~$50/mo API",
-      "amount_max_usd": 50,
-      "type": "Credits + Pro",
+      "amount": "$3,600 cash stipend + API credits",
+      "amount_max_usd": 3600,
+      "type": "Credits + Cash",
       "solo_ok": "no",
       "solo_ok_raw": "No (students only)",
       "entity": "Students",
-      "geography": "Select unis",
+      "geography": "Global (students, any school)",
       "url": "https://claude.com/programs/campus",
-      "status": "conditional",
-      "notes": "Spring 2026 closed; Fall 2026 open."
+      "status": "closed",
+      "notes": "Verified 2026-10-28: FAQ states 'The program is closed for Fall 2026' (full-year Sept 2026–Jun 2027 cohort; window was Sept 1–12). Also corrected amount: page states a 'USD3,600 cash stipend' per track, not '~$50/mo API'. Students worldwide can apply (not 'select unis'); requires work authorization in country of study. Still disqualified for solo non-students."
     },
     {
       "id": "ai-lab-credits-openai-researcher-access-program",
@@ -1530,28 +1530,28 @@
       "amount_max_usd": 100000,
       "type": "Credits",
       "solo_ok": "no",
-      "solo_ok_raw": "No (VC)",
+      "solo_ok_raw": "No (cohort full)",
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC partner referral required."
+      "status": "closed",
+      "notes": "Verified 2026-10-28: primary page states 'Our current cohort is now full, and we're not accepting new applications right now.' Was listed 'conditional' (VC referral); now flatly closed regardless of referral."
     },
     {
       "id": "cloud-compute-credits-anthropic-external-researcher",
       "name": "Anthropic External Researcher",
       "category_id": "cloud-compute-credits",
       "category": "Cloud Compute Credits",
-      "amount": "Up to $20K / 6 mo",
-      "amount_max_usd": 6000000,
+      "amount": "$1,000 API credits (typical); higher only in rare exceptions, no stated cap",
+      "amount_max_usd": 1000,
       "type": "Credits",
-      "solo_ok": "no",
-      "solo_ok_raw": "No (academic)",
-      "entity": "Academic safety researchers",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes (independent, alignment framing)",
+      "entity": "Independent OK",
       "geography": "Global",
       "url": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
       "status": "open",
-      "notes": "Independent solo OK with alignment framing."
+      "notes": "Verified 2026-10-28: primary page states '$1000 in API credits' if approved (not $20K/6mo as previously listed), with rare exceptions higher and no cap given. Page doesn't require academic affiliation. Independent solo OK with alignment framing."
     },
     {
       "id": "cloud-compute-credits-anthropic-claude-for-oss",
