@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-10-31",
   "total": 278,
   "categories": [
     {
@@ -699,11 +699,11 @@
       "type": "Subscription",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "Maintainer 5K+ stars or 1M+ npm dl/mo",
+      "entity": "500+ dependent repos / 100+ dependent packages / 200K+ monthly dl, OR core/active contributor, OR OpenSSF criticality ≥0.4",
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "No-brainer if you maintain anything popular. Last-verified Oct 31 2026: live page states no application deadline (rolling 'Apply now'); prior 'Closes Jun 30 2026' note was unsupported by the current page and has been removed."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
