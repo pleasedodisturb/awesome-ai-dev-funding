@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-11-04",
   "total": 278,
   "categories": [
     {
@@ -62,8 +62,8 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Research Awards track: \"We are not currently accepting applications\" (verified Nov 2026). Symposia track status unclear from page."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
@@ -110,8 +110,8 @@
       "entity": "Students",
       "geography": "Select unis",
       "url": "https://claude.com/programs/campus",
-      "status": "conditional",
-      "notes": "Spring 2026 closed; Fall 2026 open."
+      "status": "closed",
+      "notes": "\"Closed for Fall 2026\" (verified Nov 2026). FAQ: next window opens Sept 1, closes Sept 12 (year unstated), rolling review."
     },
     {
       "id": "ai-lab-credits-openai-researcher-access-program",
