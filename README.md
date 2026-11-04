@@ -1,6 +1,6 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-11-04.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
@@ -43,7 +43,6 @@ _31 programs_
 | 🟡 [OpenAI Researcher Access Program](https://openai.smapply.org/prog/openai_researcher_access_program/) | Up to $1K / 12 mo | Conditional | Open | Quarterly review (Mar/Jun/Sep/Dec). Easy small grant. |
 | 🟠 [Anthropic AI for Science](https://www.anthropic.com/ai-for-science-program-rules) | Up to $20K / 6 mo | No | Open | First Monday monthly review. Bio/life sciences focus. Top pick #1 if academic affiliation. |
 | 🟡 [Meta Llama Startup Program](https://www.llama.com/programs/startups/) | Up to $36K ($6K x 6 mo) | Conditional | Open | Best non-equity Llama credits. US-only filter. |
-| 🟡 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Open | Quarterly cycles; next ~June 2026. Empirical economics framing required. |
 | 🟡 [Mistral Mistralship](https://mistral.ai) | €30K (~$33K) La Plateforme credits | Conditional | Open | No-VC required EU credit program. Cohort-based. |
 | 🟡 [Groq for Startups](https://groq.com) | $10K | Conditional | Open | Pitch agentic workloads needing many sequential calls. |
 | 🟡 [Perplexity Sonar Startup](https://www.perplexity.ai/api-platform) | ~$5K | Conditional | Open | Only if grounded web search needed. |
@@ -55,11 +54,12 @@ _31 programs_
 | 🟡 [Anthropic Startup Program](https://claude.com/programs/startups) | $25K–$100K+ | Conditional | Conditional | VC referral effectively required for top tiers. |
 | 🟡 [AI Grant (Friedman/Gross)](https://aigrant.com) | $5K–$50K cash or compute | Yes | Conditional | Annual batches. Friedman+Gross at Meta — future uncertain. |
 | 🟡 [OpenAI for Startups (Tier 2/3)](https://openai.com/startups/) | $2.5K base + more via VC | Conditional | Conditional | Cold apps land sparse $1K. EV-per-effort poor. |
-| 🟡 [Claude Builder Clubs / Campus](https://claude.com/programs/campus) | Pro + ~$50/mo API | No | Conditional | Spring 2026 closed; Fall 2026 open. |
 | 🟡 [Cohere Startup Program](https://cohere.com/startup-program-application) | Up to 25% discount | Conditional | Conditional | Discount only — not pure credits. Skip for token-grant goals. |
 | 🟡 [Google AI Studio Free Tier](https://ai.google.dev/gemini-api/docs/billing) | $0 (always-on) | Yes | Conditional | Limits cut 50–80% Dec 2025; Pro paywalled Apr 1 2026. |
 | 🟡 [Replicate (via AI Grant)](https://replicate.com) | Credits + cash via partner | No | Conditional | No standalone OSS program. Pursue AI Grant directly. |
+| 🔴 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Closed | Research Awards track: "We are not currently accepting applications" (verified Nov 2026). Symposia track st... |
 | 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Cohort 2 closed Jan 12 2026. No Cohort 3 dates. |
+| 🔴 [Claude Builder Clubs / Campus](https://claude.com/programs/campus) | Pro + ~$50/mo API | No | Closed | "Closed for Fall 2026" (verified Nov 2026). FAQ: next window opens Sept 1, closes Sept 12 (year unstated), ... |
 
 ## OSS Framework Grants
 
