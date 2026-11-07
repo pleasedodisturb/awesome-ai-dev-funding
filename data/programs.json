@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
+  "last_verified": "2026-11-07",
   "total": 278,
   "categories": [
     {
@@ -62,8 +62,8 @@
       "entity": "Academic/policy researchers",
       "geography": "Global",
       "url": "https://www.anthropic.com/economic-futures/program",
-      "status": "open",
-      "notes": "Quarterly cycles; next ~June 2026. Empirical economics framing required."
+      "status": "closed",
+      "notes": "Verified 2026-11-07: Research Awards track states 'We are not currently accepting applications.' Only symposia deadlines listed are stale (Jul/Sep 2025). Re-check next cycle."
     },
     {
       "id": "ai-lab-credits-anthropic-external-researcher-access",
@@ -699,11 +699,11 @@
       "type": "Subscription",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "Maintainer 5K+ stars or 1M+ npm dl/mo",
+      "entity": "Maintainer (500+ dep. repos / 100+ dep. packages / 200K+ dl-mo / core maintainer / 100+ merged PRs-12mo / OpenSSF ≥0.4)",
       "geography": "Global",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "status": "open",
-      "notes": "Closes Jun 30 2026. No-brainer if you maintain anything popular."
+      "notes": "Verified 2026-11-07: eligibility widened to 5 alternate tiers (incl. 100+ merged PRs in others' repos, OpenSSF criticality ≥0.4) — no more hard 5K-star/1M-dl bar. No stated deadline (rolling, was 'Closes Jun 30 2026'). Reward unchanged: 6mo free plan (renamed Max 20x → Claude Ultra, still $200/mo ≈ $1.2K value)."
     },
     {
       "id": "oss-framework-grants-numfocus-small-dev-grants",
