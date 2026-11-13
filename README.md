@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **281 programs across 7 categories**, last verified 2026-11-13.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **117 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -13,10 +13,10 @@ Built for **solo AI developers** without VC backing or institutional affiliation
 ## Contents
 
 - [AI Lab Credits](#ai-lab-credits) (31)
-- [OSS Framework Grants](#oss-framework-grants) (24)
+- [OSS Framework Grants](#oss-framework-grants) (25)
 - [Cloud Compute Credits](#cloud-compute-credits) (46)
 - [Accelerators & Fellowships](#accelerators--fellowships) (33)
-- [Government & Foundation Grants](#government--foundation-grants) (55)
+- [Government & Foundation Grants](#government--foundation-grants) (57)
 - [Crypto / Web3 Grants](#crypto--web3-grants) (39)
 - [Production & Revenue Paths](#production--revenue-paths) (50)
 - [Interactive site](#interactive-site)
@@ -63,12 +63,12 @@ _31 programs_
 
 ## OSS Framework Grants
 
-_24 programs_
+_25 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
 | 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $1.2K (6mo Max 20x) | Yes | Open | Closes Jun 30 2026. No-brainer if you maintain anything popular. |
-| 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — appl... |
+| 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Administration handed off to Spiral (Block's open-source grants arm) under AAIF as of Nov 2026 — apply via ... |
 | 🟢 [FLOSS/fund (Zerodha)](https://floss.fund/) | $10K–$100K | Yes | Open | $1M annual. funding.json manifest submission. |
 | 🟢 [Daytona Startup Credits](https://www.daytona.io/startups) | $50K credits | Yes | Open | Useful for sandboxed code execution use cases. |
 | 🟢 [OpenAI Codex OSS Fund](https://openai.com/form/codex-open-source-fund/) | $25K API credits | Yes | Open | Rolling. Bonus: ≥1K star repos get free ChatGPT Pro. |
@@ -80,6 +80,7 @@ _24 programs_
 | 🟢 [fal Research Grants](https://fal.ai/grants) | In-kind compute | Yes | Open | Email grants@fal.ai with project description. |
 | 🟠 [UK Sovereign AI Fund](https://www.sovereignai.gov.uk/) | £500M pool varies | No | Open | UK only. Multi-stage govt application. |
 | 🟡 [Cloudflare Startup Program](https://blog.cloudflare.com/startup-program-250k-credits/) | $250K credits | Conditional | Open | Credits not cash; only useful if hitting real bills. |
+| 🟡 [floss.fund (Zerodha)](https://floss.fund/) | $10K–$100K/yr (multiples of $25K above $10K) | Conditional | Open | Rolling applications, reviewed quarterly by an internal investment committee. No legal-entity or residency ... |
 | 🟡 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K cash + $10K Azure credits | Conditional | Open | Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups u... |
 | 🟡 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | Varies | Conditional | Open | Invite-heavy. |
 | 🟡 [Sovereign Tech Fund (DE)](https://www.sovereign.tech/programs/fund) | Project-scaled | Conditional | Open | Tens to hundreds of K EUR per engagement. |
@@ -187,7 +188,7 @@ _33 programs_
 
 ## Government & Foundation Grants
 
-_55 programs_
+_57 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
@@ -196,6 +197,7 @@ _55 programs_
 | 🟢 [Foresight Institute AI Safety/Science Nodes](https://foresight.org/grants/grants-ai-for-science-safety/) | $10K-$100K | Yes | Open | Last day of every month deadline. |
 | 🟢 [Mercatus Emergent Ventures](https://www.mercatus.org/emergent-ventures) | $10K-$100K typical | Yes | Open | Tyler Cowen reads. Highly solo-friendly. |
 | 🟢 [LTFF AI Safety Upskilling Grants](https://funds.effectivealtruism.org) | $5K-$50K | Yes | Open | Career transitions / upskilling. |
+| 🟢 [NLnet CodeSupply](https://nlnet.nl/codesupply/) | €5K–50K per project (2nd call, €400K pool) | Yes | Open | 2nd call opened Nov 3 2026, deadline Jan 3 2027 12:00 CET. Software supply-chain security focus — strong fi... |
 | 🟢 [AI Safety Camp](https://aisafety.camp) | Up to $36K (lead) | Yes | Open | Remote-friendly structured volunteer/stipend mix. |
 | 🟢 [Long-Term Future Fund (LTFF)](https://funds.effectivealtruism.org/funds/far-future) | Median $25K | Yes | Open | Best AI-safety fund for unaffiliated solo. 1-3mo decisions. |
 | 🟢 [MATS (Berkeley)](https://www.matsprogram.org/) | $15K stipend + compute + housing | Yes | Open | $12K compute + housing + travel. |
@@ -215,6 +217,7 @@ _55 programs_
 | 🟡 [NIST SBIR (AI)](https://grantedai.com/grants/sbir-program-artificial-intelligence-ai-topic-national-institute-of-standards-and-tech-f2c94bbc) | $100K (I) / $400K (II) | Conditional | Open | Smaller awards but lighter review. |
 | 🟡 [NSF SBIR/STTR Phase I (AI)](https://seedfund.nsf.gov/solicitations/) | $305K / 6-18mo | Conditional | Open | Relaunched Jun 2 2026 after ~5mo freeze under solicitation 26-510: $210M pool (+ separate $40M instrumentat... |
 | 🟡 [BMBF KMU-innovativ (AI)](https://verwaltung.bund.de/leistungsverzeichnis/en/leistung/99400071017000) | Up to €100K/yr | Conditional | Open | Need science/industry partner. |
+| 🟡 [NLnet Restack](https://nlnet.nl/restack/) | €5K–50K per project (€7M program total through 2030) | Conditional | Open | 2nd call opened Nov 3 2026, deadline Jan 3 2027 12:00 CET. Full-stack / software-supply-chain security is i... |
 | 🟡 [Bpifrance French Tech Grant](https://en.sedomicilier.fr) | €30K-€45K | Conditional | Open | France registration needed. |
 | 🟡 [AI NATION Grant](https://www.ai-nation.de/grant) | Up to €36K + €16K resources | Conditional | Open | Q3 2026 next app. |
 | 🟠 [AI Singapore 100 Experiments](https://aisingapore.org/innovation/100e/) | Up to 70% of project | No | Open | Not for individuals. |

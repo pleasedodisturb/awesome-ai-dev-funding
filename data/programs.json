@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
-  "total": 278,
+  "last_verified": "2026-11-13",
+  "total": 281,
   "categories": [
     {
       "id": "ai-lab-credits",
@@ -543,7 +543,7 @@
       "geography": "Global",
       "url": "https://goose-docs.ai/grants/",
       "status": "open",
-      "notes": "Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — apply via goose-docs.ai/grants Google Form (old block.github.io URL is dead). Focus: MCP integrations, security audits, agent autonomy, multi-modal, real-world automation. Milestone-based quarterly payouts; work must not be employer/client-funded. Launched Jul 2025 (no fresh 2026 round — continuous)."
+      "notes": "Administration handed off to Spiral (Block's open-source grants arm) under AAIF as of Nov 2026 — apply via Spiral's Grants page (spiral.xyz/grants/), not the old Google Form. goose-docs.ai/grants/ (fetched 2026-11-13) confirms the handoff but no longer states terms itself; the $100K cap and milestone structure are UNVERIFIED pending a direct fetch of spiral.xyz/grants (blocked this pass) — last confirmed Jul 2026, not reconfirmed Nov 2026."
     },
     {
       "id": "oss-framework-grants-uk-sovereign-ai-fund",
@@ -4480,6 +4480,54 @@
       "url": "https://www.indiehackers.com",
       "status": "conditional",
       "notes": "Variable."
+    },
+    {
+      "id": "gov-foundation-grants-nlnet-codesupply",
+      "name": "NLnet CodeSupply",
+      "category_id": "gov-foundation-grants",
+      "category": "Government & Foundation Grants",
+      "amount": "€5K–50K per project (2nd call, €400K pool)",
+      "amount_max_usd": 50000,
+      "type": "Cash",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes",
+      "entity": "Individuals/teams, no legal entity required",
+      "geography": "EU (strong ‘European dimension’ required)",
+      "url": "https://nlnet.nl/codesupply/",
+      "status": "open",
+      "notes": "2nd call opened Nov 3 2026, deadline Jan 3 2027 12:00 CET. Software supply-chain security focus — strong fit for the security-toolchain project. No categorical exclusion of individuals; team must be mostly from Horizon Europe-eligible countries (Germany qualifies). Verified via nlnet.nl/codesupply/ + /eligibility/ (fetched 2026-11-13)."
+    },
+    {
+      "id": "gov-foundation-grants-nlnet-restack",
+      "name": "NLnet Restack",
+      "category_id": "gov-foundation-grants",
+      "category": "Government & Foundation Grants",
+      "amount": "€5K–50K per project (€7M program total through 2030)",
+      "amount_max_usd": 50000,
+      "type": "Cash",
+      "solo_ok": "conditional",
+      "solo_ok_raw": "Conditional",
+      "entity": "Individuals/teams, no legal entity required",
+      "geography": "EU (strong ‘European dimension’ required)",
+      "url": "https://nlnet.nl/restack/",
+      "status": "open",
+      "notes": "2nd call opened Nov 3 2026, deadline Jan 3 2027 12:00 CET. Full-stack / software-supply-chain security is in scope — good fit for the security-toolchain project. GenAI projects are explicitly OUT OF SCOPE unless already used by >1M people, which likely disqualifies Kestrel — ask NLnet directly before applying. Verified via nlnet.nl/restack/ + /eligibility/ (fetched 2026-11-13)."
+    },
+    {
+      "id": "oss-framework-grants-floss-fund",
+      "name": "floss.fund (Zerodha)",
+      "category_id": "oss-framework-grants",
+      "category": "OSS Framework Grants",
+      "amount": "$10K–$100K/yr (multiples of $25K above $10K)",
+      "amount_max_usd": 100000,
+      "type": "Cash",
+      "solo_ok": "conditional",
+      "solo_ok_raw": "Conditional",
+      "entity": "Individuals or orgs; personal bank account accepted",
+      "geography": "Global",
+      "url": "https://floss.fund/",
+      "status": "open",
+      "notes": "Rolling applications, reviewed quarterly by an internal investment committee. No legal-entity or residency gate — individuals with a personal bank account qualify — but the page explicitly prioritizes 'existing, widely used, impactful' projects, a weak fit for a young, low-adoption project like Kestrel today. Requires publishing a funding.json manifest (fundingjson.org) and listing at dir.floss.fund. Verified via floss.fund + /faq/ (fetched 2026-11-13)."
     }
   ]
 }
