@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **279 programs across 7 categories**, last verified 2026-11-22.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **117 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -16,7 +16,7 @@ Built for **solo AI developers** without VC backing or institutional affiliation
 - [OSS Framework Grants](#oss-framework-grants) (24)
 - [Cloud Compute Credits](#cloud-compute-credits) (46)
 - [Accelerators & Fellowships](#accelerators--fellowships) (33)
-- [Government & Foundation Grants](#government--foundation-grants) (55)
+- [Government & Foundation Grants](#government--foundation-grants) (56)
 - [Crypto / Web3 Grants](#crypto--web3-grants) (39)
 - [Production & Revenue Paths](#production--revenue-paths) (50)
 - [Interactive site](#interactive-site)
@@ -52,13 +52,13 @@ _31 programs_
 | 🟡 [Fireworks for Startups](https://fireworks.ai/startup-program) | Build credits + rate limits | Conditional | Open | Best if stack already on Fireworks. |
 | 🟡 [Meta Llama Impact Grants](https://llama.meta.com/llama-impact-grants/) | $300K–$500K | Conditional | Conditional | AI Glasses track closed Mar 9 2026. Annual cycle. |
 | 🟡 [Google for Startups Cloud (AI Tier)](https://cloud.google.com/startup/ai) | Up to $350K (incl. $10K LLM) | No | Conditional | Requires qualifying VC funding seed–Series A. |
-| 🟡 [Anthropic Startup Program](https://claude.com/programs/startups) | $25K–$100K+ | Conditional | Conditional | VC referral effectively required for top tiers. |
 | 🟡 [AI Grant (Friedman/Gross)](https://aigrant.com) | $5K–$50K cash or compute | Yes | Conditional | Annual batches. Friedman+Gross at Meta — future uncertain. |
 | 🟡 [OpenAI for Startups (Tier 2/3)](https://openai.com/startups/) | $2.5K base + more via VC | Conditional | Conditional | Cold apps land sparse $1K. EV-per-effort poor. |
 | 🟡 [Claude Builder Clubs / Campus](https://claude.com/programs/campus) | Pro + ~$50/mo API | No | Conditional | Spring 2026 closed; Fall 2026 open. |
 | 🟡 [Cohere Startup Program](https://cohere.com/startup-program-application) | Up to 25% discount | Conditional | Conditional | Discount only — not pure credits. Skip for token-grant goals. |
 | 🟡 [Google AI Studio Free Tier](https://ai.google.dev/gemini-api/docs/billing) | $0 (always-on) | Yes | Conditional | Limits cut 50–80% Dec 2025; Pro paywalled Apr 1 2026. |
 | 🟡 [Replicate (via AI Grant)](https://replicate.com) | Credits + cash via partner | No | Conditional | No standalone OSS program. Pursue AI Grant directly. |
+| 🔴 [Anthropic Startup Program](https://claude.com/programs/startups) | ~$45K credit bundle (cold); up to $100K via VC referral | No | Closed | Verified 2026-11-22: page states "Our current cohort is now full, and we're not accepting new applications ... |
 | 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Cohort 2 closed Jan 12 2026. No Cohort 3 dates. |
 
 ## OSS Framework Grants
@@ -187,7 +187,7 @@ _33 programs_
 
 ## Government & Foundation Grants
 
-_55 programs_
+_56 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
@@ -195,6 +195,7 @@ _55 programs_
 | 🟢 [Israel Innovation Authority Tnufa](https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/) | Up to NIS 200K (~$54K) | Yes | Open | Innovation Visa = 24mo residency. Designed for foreign solo. |
 | 🟢 [Foresight Institute AI Safety/Science Nodes](https://foresight.org/grants/grants-ai-for-science-safety/) | $10K-$100K | Yes | Open | Last day of every month deadline. |
 | 🟢 [Mercatus Emergent Ventures](https://www.mercatus.org/emergent-ventures) | $10K-$100K typical | Yes | Open | Tyler Cowen reads. Highly solo-friendly. |
+| 🟢 [NLnet CodeSupply (NGI Zero)](https://nlnet.nl/codesupply/) | €5,000–€50,000 per project | Yes | Open | Verified 2026-11-22: "The second call of CodeSupply opened up on November 3rd 2026, with a deadline of Janu... |
 | 🟢 [LTFF AI Safety Upskilling Grants](https://funds.effectivealtruism.org) | $5K-$50K | Yes | Open | Career transitions / upskilling. |
 | 🟢 [AI Safety Camp](https://aisafety.camp) | Up to $36K (lead) | Yes | Open | Remote-friendly structured volunteer/stipend mix. |
 | 🟢 [Long-Term Future Fund (LTFF)](https://funds.effectivealtruism.org/funds/far-future) | Median $25K | Yes | Open | Best AI-safety fund for unaffiliated solo. 1-3mo decisions. |

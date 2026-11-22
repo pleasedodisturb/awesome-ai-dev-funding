@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
-  "total": 278,
+  "last_verified": "2026-11-22",
+  "total": 279,
   "categories": [
     {
       "id": "ai-lab-credits",
@@ -86,16 +86,16 @@
       "name": "Anthropic Startup Program",
       "category_id": "ai-lab-credits",
       "category": "AI Lab Credits",
-      "amount": "$25K–$100K+",
+      "amount": "~$45K credit bundle (cold); up to $100K via VC referral",
       "amount_max_usd": 100000,
       "type": "Credits",
-      "solo_ok": "conditional",
-      "solo_ok_raw": "Conditional (cold $1–5K)",
+      "solo_ok": "no",
+      "solo_ok_raw": "No (cohort full, applications closed)",
       "entity": "Incorporated startup",
       "geography": "Global",
       "url": "https://claude.com/programs/startups",
-      "status": "conditional",
-      "notes": "VC referral effectively required for top tiers."
+      "status": "closed",
+      "notes": "Verified 2026-11-22: page states \"Our current cohort is now full, and we're not accepting new applications right now.\" Base perk is a ~$45K multi-vendor credit bundle (not Anthropic cash), not usable on third-party clouds; $100K tier still VC-referral only. Re-check claude.com/programs/startups for reopening."
     },
     {
       "id": "ai-lab-credits-claude-builder-clubs-campus",
@@ -2560,6 +2560,22 @@
       "url": "https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-march-2026/",
       "status": "open",
       "notes": "SME budget ≥50%. ≤36 mo."
+    },
+    {
+      "id": "gov-foundation-grants-nlnet-codesupply",
+      "name": "NLnet CodeSupply (NGI Zero)",
+      "category_id": "gov-foundation-grants",
+      "category": "Government & Foundation Grants",
+      "amount": "€5,000–€50,000 per project",
+      "amount_max_usd": 50000,
+      "type": "Grant (Cash)",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes (independent researchers and developers supported)",
+      "entity": "Independent OK",
+      "geography": "Global (NGI/EU-funded; no residency requirement found on primary page)",
+      "url": "https://nlnet.nl/codesupply/",
+      "status": "open",
+      "notes": "Verified 2026-11-22: \"The second call of CodeSupply opened up on November 3rd 2026, with a deadline of January 3rd 2027 12:00 CET.\" Funds software supply-chain / packaging-metadata security work released under an OSS license — strong fit for an AI-agent security toolchain. NLnet's separate ELFA call is postponed/withdrawn (checked same day) — do not confuse the two."
     },
     {
       "id": "gov-foundation-grants-bmbf-kmu-innovativ-ai",
