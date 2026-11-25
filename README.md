@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **280 programs across 7 categories**, last verified 2026-11-25.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **119 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -13,10 +13,10 @@ Built for **solo AI developers** without VC backing or institutional affiliation
 ## Contents
 
 - [AI Lab Credits](#ai-lab-credits) (31)
-- [OSS Framework Grants](#oss-framework-grants) (24)
+- [OSS Framework Grants](#oss-framework-grants) (25)
 - [Cloud Compute Credits](#cloud-compute-credits) (46)
 - [Accelerators & Fellowships](#accelerators--fellowships) (33)
-- [Government & Foundation Grants](#government--foundation-grants) (55)
+- [Government & Foundation Grants](#government--foundation-grants) (56)
 - [Crypto / Web3 Grants](#crypto--web3-grants) (39)
 - [Production & Revenue Paths](#production--revenue-paths) (50)
 - [Interactive site](#interactive-site)
@@ -63,16 +63,18 @@ _31 programs_
 
 ## OSS Framework Grants
 
-_24 programs_
+_25 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
 | 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $1.2K (6mo Max 20x) | Yes | Open | Closes Jun 30 2026. No-brainer if you maintain anything popular. |
-| 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — appl... |
+| 🟢 [Spiral Grants (fka Block Goose Grant)](https://spiral.xyz/grants/) | ~$100K/12mo | Yes | Open | Verified Nov 2026: goose-docs.ai/grants now states 'the goose Grant program is now administered by Spiral' ... |
 | 🟢 [FLOSS/fund (Zerodha)](https://floss.fund/) | $10K–$100K | Yes | Open | $1M annual. funding.json manifest submission. |
+| 🟢 [FLOSS/fund](https://floss.fund) | $10K–$100K/yr | Yes | Open | Verified Nov 2026 (FAQ): requests from $10K up to $100K/yr in $25K increments above the $10K base; quarterl... |
 | 🟢 [Daytona Startup Credits](https://www.daytona.io/startups) | $50K credits | Yes | Open | Useful for sandboxed code execution use cases. |
 | 🟢 [OpenAI Codex OSS Fund](https://openai.com/form/codex-open-source-fund/) | $25K API credits | Yes | Open | Rolling. Bonus: ≥1K star repos get free ChatGPT Pro. |
 | 🟢 [Modal Startup Credits](https://modal.com/startups) | $25K | Yes | Open | Pair with Codex Fund for compute + inference coverage. |
+| 🟢 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K cash + $10K Azure credits | Yes | Open | Verified Nov 2026, primary page: 'Applications are open on a rolling basis.' 'Anyone who is a current maint... |
 | 🟢 [NumFOCUS Small Dev Grants](https://numfocus.org/programs/small-development-grants) | $10K | Yes | Open | Sept/Oct 2026 cycle. GitHub PR-based submission. |
 | 🟢 [Vercel OSS Program](https://vercel.com/open-source-program) | $3.6K + partner credits | Yes | Open | Quarterly cohorts. |
 | 🟢 [E2B Hobby Credits](https://e2b.dev/pricing) | $100 one-time | Yes | Open | Trivial signup. First steps for sandbox infra. |
@@ -80,7 +82,6 @@ _24 programs_
 | 🟢 [fal Research Grants](https://fal.ai/grants) | In-kind compute | Yes | Open | Email grants@fal.ai with project description. |
 | 🟠 [UK Sovereign AI Fund](https://www.sovereignai.gov.uk/) | £500M pool varies | No | Open | UK only. Multi-stage govt application. |
 | 🟡 [Cloudflare Startup Program](https://blog.cloudflare.com/startup-program-250k-credits/) | $250K credits | Conditional | Open | Credits not cash; only useful if hitting real bills. |
-| 🟡 [GitHub Secure OSS Fund](https://github.com/open-source/github-secure-open-source-fund) | $10K cash + $10K Azure credits | Conditional | Open | Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups u... |
 | 🟡 [Together AI Research Credits](https://www.together.ai/research-credits-program-request) | Varies | Conditional | Open | Invite-heavy. |
 | 🟡 [Sovereign Tech Fund (DE)](https://www.sovereign.tech/programs/fund) | Project-scaled | Conditional | Open | Tens to hundreds of K EUR per engagement. |
 | 🟠 [LFAI & Data sandbox/incubation](https://lfaidata.foundation/) | In-kind (no cash) | No | Open | Strategic if building cross-org infra. Not direct funding. |
@@ -187,7 +188,7 @@ _33 programs_
 
 ## Government & Foundation Grants
 
-_55 programs_
+_56 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
@@ -196,6 +197,7 @@ _55 programs_
 | 🟢 [Foresight Institute AI Safety/Science Nodes](https://foresight.org/grants/grants-ai-for-science-safety/) | $10K-$100K | Yes | Open | Last day of every month deadline. |
 | 🟢 [Mercatus Emergent Ventures](https://www.mercatus.org/emergent-ventures) | $10K-$100K typical | Yes | Open | Tyler Cowen reads. Highly solo-friendly. |
 | 🟢 [LTFF AI Safety Upskilling Grants](https://funds.effectivealtruism.org) | $5K-$50K | Yes | Open | Career transitions / upskilling. |
+| 🟢 [NLnet CodeSupply](https://nlnet.nl/codesupply/) | €5K–€50K | Yes | Open | 2nd call opened Nov 3 2026, deadline Jan 3 2027 12:00 CET. Funds FOSS software-supply-chain-security toolin... |
 | 🟢 [AI Safety Camp](https://aisafety.camp) | Up to $36K (lead) | Yes | Open | Remote-friendly structured volunteer/stipend mix. |
 | 🟢 [Long-Term Future Fund (LTFF)](https://funds.effectivealtruism.org/funds/far-future) | Median $25K | Yes | Open | Best AI-safety fund for unaffiliated solo. 1-3mo decisions. |
 | 🟢 [MATS (Berkeley)](https://www.matsprogram.org/) | $15K stipend + compute + housing | Yes | Open | $12K compute + housing + travel. |

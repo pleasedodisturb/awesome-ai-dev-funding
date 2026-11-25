@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
-  "total": 278,
+  "last_verified": "2026-11-25",
+  "total": 280,
   "categories": [
     {
       "id": "ai-lab-credits",
@@ -531,19 +531,19 @@
     },
     {
       "id": "oss-framework-grants-block-goose-grant",
-      "name": "Block Goose Grant",
+      "name": "Spiral Grants (fka Block Goose Grant)",
       "category_id": "oss-framework-grants",
       "category": "OSS Framework Grants",
-      "amount": "Up to $100K",
+      "amount": "~$100K/12mo",
       "amount_max_usd": 100000,
-      "type": "Cash (milestone)",
+      "type": "Cash",
       "solo_ok": "yes",
       "solo_ok_raw": "Yes",
-      "entity": "Individuals or small teams",
+      "entity": "Individuals or small teams, worldwide",
       "geography": "Global",
-      "url": "https://goose-docs.ai/grants/",
+      "url": "https://spiral.xyz/grants/",
       "status": "open",
-      "notes": "Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — apply via goose-docs.ai/grants Google Form (old block.github.io URL is dead). Focus: MCP integrations, security audits, agent autonomy, multi-modal, real-world automation. Milestone-based quarterly payouts; work must not be employer/client-funded. Launched Jul 2025 (no fresh 2026 round — continuous)."
+      "notes": "Verified Nov 2026: goose-docs.ai/grants now states 'the goose Grant program is now administered by Spiral' — apply via spiral.xyz/grants (email grants@spiral.xyz), not the old Google Form. Scope widened from goose-specific to open AI + Bitcoin broadly. Grants 'typically for 12 months with a value of $100K USD' + travel stipend. Rolling, no deadline listed."
     },
     {
       "id": "oss-framework-grants-uk-sovereign-ai-fund",
@@ -873,13 +873,13 @@
       "amount": "$10K cash + $10K Azure credits",
       "amount_max_usd": 20000,
       "type": "Cash + Credits",
-      "solo_ok": "conditional",
-      "solo_ok_raw": "Conditional",
-      "entity": "Critical OSS maintainers",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes (solo maintainers eligible)",
+      "entity": "Critical OSS maintainers (solo or ≤2-person team)",
       "geography": "Global",
       "url": "https://github.com/open-source/github-secure-open-source-fund",
       "status": "open",
-      "notes": "Multi-session/yr. Rolling applications. Up to $150K in Azure credits is a separate Microsoft for Startups upside, not part of this fund's guaranteed amount."
+      "notes": "Verified Nov 2026, primary page: 'Applications are open on a rolling basis.' 'Anyone who is a current maintainer of an open source project' may apply solo, or as a team of ≤2. $10K cash paid in tranches ($6K+$2K+$2K) + $10K Azure credits guaranteed; up to $150K Azure credits is a separate Microsoft for Startups upside, not guaranteed."
     },
     {
       "id": "oss-framework-grants-vercel-ai-accelerator",
@@ -4480,6 +4480,38 @@
       "url": "https://www.indiehackers.com",
       "status": "conditional",
       "notes": "Variable."
+    },
+    {
+      "id": "gov-foundation-grants-nlnet-codesupply",
+      "name": "NLnet CodeSupply",
+      "category_id": "gov-foundation-grants",
+      "category": "Government & Foundation Grants",
+      "amount": "€5K–€50K",
+      "amount_max_usd": 50000,
+      "type": "Cash",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes (individuals, no legal entity required)",
+      "entity": "Individuals or orgs, no entity needed",
+      "geography": "Global (EU Horizon Europe-funded)",
+      "url": "https://nlnet.nl/codesupply/",
+      "status": "open",
+      "notes": "2nd call opened Nov 3 2026, deadline Jan 3 2027 12:00 CET. Funds FOSS software-supply-chain-security tooling (origin/licensing/vuln/quality metadata) — direct fit for credential-proxy/audit-log/supply-chain-analysis toolchain. Results must ship under a recognised FOSS license (MIT/AGPL compatible). NLnet confirms no legal entity required; individuals eligible."
+    },
+    {
+      "id": "oss-framework-grants-floss-fund",
+      "name": "FLOSS/fund",
+      "category_id": "oss-framework-grants",
+      "category": "OSS Framework Grants",
+      "amount": "$10K–$100K/yr",
+      "amount_max_usd": 100000,
+      "type": "Cash",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes (individuals eligible)",
+      "entity": "Individuals, projects, or orgs",
+      "geography": "Global",
+      "url": "https://floss.fund",
+      "status": "open",
+      "notes": "Verified Nov 2026 (FAQ): requests from $10K up to $100K/yr in $25K increments above the $10K base; quarterly committee review, rolling submissions, no fixed deadline. Individuals can apply (needs a bank account + tax docs, no legal entity required). Funded by Zerodha, ~$1M/yr total pool across all grantees (not a per-project cap). Favors existing, widely-used FOSS projects — may deprioritize brand-new repos."
     }
   ]
 }
