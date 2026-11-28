@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_verified": "2026-07-19",
-  "total": 278,
+  "last_verified": "2026-11-28",
+  "total": 279,
   "categories": [
     {
       "id": "ai-lab-credits",
@@ -270,8 +270,8 @@
       "entity": "Startup <Series B <7yrs",
       "geography": "EU-friendly",
       "url": "https://mistral.ai",
-      "status": "open",
-      "notes": "No-VC required EU credit program. Cohort-based."
+      "status": "closed",
+      "notes": "Mistralship program page no longer exists on mistral.ai (old URL pattern 404s); no startup/credit program found in current site nav, pricing, or news as of Nov 2026. Appears discontinued. Re-verified 2026-11-28 via mistral.ai, mistral.ai/about, mistral.ai/news, mistral.ai/pricing."
     },
     {
       "id": "ai-lab-credits-meta-llama-startup-program",
@@ -543,7 +543,7 @@
       "geography": "Global",
       "url": "https://goose-docs.ai/grants/",
       "status": "open",
-      "notes": "Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — apply via goose-docs.ai/grants Google Form (old block.github.io URL is dead). Focus: MCP integrations, security audits, agent autonomy, multi-modal, real-world automation. Milestone-based quarterly payouts; work must not be employer/client-funded. Launched Jul 2025 (no fresh 2026 round — continuous)."
+      "notes": "Rolling, open (re-verified Nov 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026. As of Nov 2026, goose-docs.ai/grants directs applicants to Spiral (Block's R&D lab) at spiral.xyz/grants (apply via grants@spiral.xyz) — the old goose-docs.ai Google Form is no longer the entry point. Spiral confirms $100K/12mo milestone grants, individuals and small teams worldwide, non-commercial OSS AI work. Focus: MCP integrations, security audits, agent autonomy, multi-modal, real-world automation. Work must not be employer/client-funded. Launched Jul 2025 (no fresh 2026 round — continuous). Verified 2026-11-28."
     },
     {
       "id": "oss-framework-grants-uk-sovereign-ai-fund",
@@ -4243,11 +4243,11 @@
     },
     {
       "id": "production-revenue-openai-gpt-5-5-bio-bounty",
-      "name": "OpenAI GPT-5.5 Bio Bounty",
+      "name": "OpenAI Bio Bounty Program",
       "category_id": "production-revenue",
       "category": "Production & Revenue Paths",
-      "amount": "Up to $25K (single winner)",
-      "amount_max_usd": 25000,
+      "amount": "Up to $50K (single winner, universal jailbreak)",
+      "amount_max_usd": 50000,
       "type": "Bug bounty",
       "solo_ok": "conditional",
       "solo_ok_raw": "Conditional",
@@ -4255,7 +4255,7 @@
       "geography": "Global",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
       "status": "open",
-      "notes": "Apr 28 - Jul 27 2026 window. Only 1st earns full."
+      "notes": "Renamed from “GPT-5.5 Bio Bug Bounty” to “OpenAI Bio Bounty Program.” Universal-jailbreak reward raised from $25K to $50K. GPT-5.5 testing window closed Jul 27, 2026; only GPT-5.6 is in scope going forward. Only 1st finder earns full reward. Verified 2026-11-28 via openai.com/index/gpt-5-5-bio-bug-bounty/."
     },
     {
       "id": "production-revenue-hackerone-ai-red-team",
@@ -4480,6 +4480,22 @@
       "url": "https://www.indiehackers.com",
       "status": "conditional",
       "notes": "Variable."
+    },
+    {
+      "id": "gov-foundation-grants-nlnet-codesupply",
+      "name": "NLnet CodeSupply",
+      "category_id": "gov-foundation-grants",
+      "category": "Government & Foundation Grants",
+      "amount": "€5K–€50K per project",
+      "amount_max_usd": 54000,
+      "type": "Cash (project grant)",
+      "solo_ok": "yes",
+      "solo_ok_raw": "Yes (individuals and collectives without a legal entity explicitly allowed)",
+      "entity": "Individual or collective, no legal entity required",
+      "geography": "Strong EU/Horizon Europe dimension required (non-EU considered in exceptional cases)",
+      "url": "https://nlnet.nl/codesupply/",
+      "status": "open",
+      "notes": "Second call opened Nov 3, 2026; deadline Jan 3, 2027 12:00 CET. €400K total programme budget for this open call. Explicitly allows “Individual” and “Collective (without legal entity)” applicant types — fits a solo Berlin-based developer with no entity. Direct fit for AI-agent security / supply-chain-analysis toolchain work (NGI/code-supply-chain focus). Verified 2026-11-28 via nlnet.nl/codesupply/ and nlnet.nl/propose/."
     }
   ]
 }
