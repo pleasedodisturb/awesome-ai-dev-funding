@@ -1,11 +1,11 @@
 # Awesome AI Dev Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **278 programs across 7 categories**, last verified 2026-07-19.
+> Curated list of funding programs for AI developers — credits, grants, fellowships, accelerators, bounties, and revenue paths. **279 programs across 7 categories**, last verified 2026-11-28.
 
 Built for **solo AI developers** without VC backing or institutional affiliation. Every program is annotated with whether it's actually accessible to a solo dev, the realistic award amount, and the current status.
 
 **Quick filters:**
-- 🟢 **116 programs** are *open* and *truly solo-friendly* — start here
+- 🟢 **117 programs** are *open* and *truly solo-friendly* — start here
 - Browse the [interactive filterable site →](#interactive-site) for sortable tables and search
 
 ---
@@ -16,7 +16,7 @@ Built for **solo AI developers** without VC backing or institutional affiliation
 - [OSS Framework Grants](#oss-framework-grants) (24)
 - [Cloud Compute Credits](#cloud-compute-credits) (46)
 - [Accelerators & Fellowships](#accelerators--fellowships) (33)
-- [Government & Foundation Grants](#government--foundation-grants) (55)
+- [Government & Foundation Grants](#government--foundation-grants) (56)
 - [Crypto / Web3 Grants](#crypto--web3-grants) (39)
 - [Production & Revenue Paths](#production--revenue-paths) (50)
 - [Interactive site](#interactive-site)
@@ -44,7 +44,6 @@ _31 programs_
 | 🟠 [Anthropic AI for Science](https://www.anthropic.com/ai-for-science-program-rules) | Up to $20K / 6 mo | No | Open | First Monday monthly review. Bio/life sciences focus. Top pick #1 if academic affiliation. |
 | 🟡 [Meta Llama Startup Program](https://www.llama.com/programs/startups/) | Up to $36K ($6K x 6 mo) | Conditional | Open | Best non-equity Llama credits. US-only filter. |
 | 🟡 [Anthropic Economic Futures](https://www.anthropic.com/economic-futures/program) | $5K credits + $10–50K research grant | Conditional | Open | Quarterly cycles; next ~June 2026. Empirical economics framing required. |
-| 🟡 [Mistral Mistralship](https://mistral.ai) | €30K (~$33K) La Plateforme credits | Conditional | Open | No-VC required EU credit program. Cohort-based. |
 | 🟡 [Groq for Startups](https://groq.com) | $10K | Conditional | Open | Pitch agentic workloads needing many sequential calls. |
 | 🟡 [Perplexity Sonar Startup](https://www.perplexity.ai/api-platform) | ~$5K | Conditional | Open | Only if grounded web search needed. |
 | 🟠 [Google Gemini for Research](https://ai.google.dev/gemini-api/docs/gemini-for-research) | Credits + higher rate limits | No | Open | Monthly review. Top pick #2 if academic tie. |
@@ -60,6 +59,7 @@ _31 programs_
 | 🟡 [Google AI Studio Free Tier](https://ai.google.dev/gemini-api/docs/billing) | $0 (always-on) | Yes | Conditional | Limits cut 50–80% Dec 2025; Pro paywalled Apr 1 2026. |
 | 🟡 [Replicate (via AI Grant)](https://replicate.com) | Credits + cash via partner | No | Conditional | No standalone OSS program. Pursue AI Grant directly. |
 | 🔴 [OpenAI Grove](https://openai.com/index/openai-grove/) | $50K credits + program | Yes | Closed | Cohort 2 closed Jan 12 2026. No Cohort 3 dates. |
+| 🔴 [Mistral Mistralship](https://mistral.ai) | €30K (~$33K) La Plateforme credits | Conditional | Closed | Mistralship program page no longer exists on mistral.ai (old URL pattern 404s); no startup/credit program f... |
 
 ## OSS Framework Grants
 
@@ -68,7 +68,7 @@ _24 programs_
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
 | 🟢 [Anthropic Claude for OSS](https://claude.com/contact-sales/claude-for-oss) | $1.2K (6mo Max 20x) | Yes | Open | Closes Jun 30 2026. No-brainer if you maintain anything popular. |
-| 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Rolling, open (re-verified Jul 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026 — appl... |
+| 🟢 [Block Goose Grant](https://goose-docs.ai/grants/) | Up to $100K | Yes | Open | Rolling, open (re-verified Nov 2026). Goose moved to Linux Foundation Agentic AI Foundation Apr 2026. As of... |
 | 🟢 [FLOSS/fund (Zerodha)](https://floss.fund/) | $10K–$100K | Yes | Open | $1M annual. funding.json manifest submission. |
 | 🟢 [Daytona Startup Credits](https://www.daytona.io/startups) | $50K credits | Yes | Open | Useful for sandboxed code execution use cases. |
 | 🟢 [OpenAI Codex OSS Fund](https://openai.com/form/codex-open-source-fund/) | $25K API credits | Yes | Open | Rolling. Bonus: ≥1K star repos get free ChatGPT Pro. |
@@ -187,7 +187,7 @@ _33 programs_
 
 ## Government & Foundation Grants
 
-_55 programs_
+_56 programs_
 
 | Program | Amount | Solo OK | Status | Notes |
 | --- | --- | --- | --- | --- |
@@ -195,6 +195,7 @@ _55 programs_
 | 🟢 [Israel Innovation Authority Tnufa](https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/) | Up to NIS 200K (~$54K) | Yes | Open | Innovation Visa = 24mo residency. Designed for foreign solo. |
 | 🟢 [Foresight Institute AI Safety/Science Nodes](https://foresight.org/grants/grants-ai-for-science-safety/) | $10K-$100K | Yes | Open | Last day of every month deadline. |
 | 🟢 [Mercatus Emergent Ventures](https://www.mercatus.org/emergent-ventures) | $10K-$100K typical | Yes | Open | Tyler Cowen reads. Highly solo-friendly. |
+| 🟢 [NLnet CodeSupply](https://nlnet.nl/codesupply/) | €5K–€50K per project | Yes | Open | Second call opened Nov 3, 2026; deadline Jan 3, 2027 12:00 CET. €400K total programme budget for this open ... |
 | 🟢 [LTFF AI Safety Upskilling Grants](https://funds.effectivealtruism.org) | $5K-$50K | Yes | Open | Career transitions / upskilling. |
 | 🟢 [AI Safety Camp](https://aisafety.camp) | Up to $36K (lead) | Yes | Open | Remote-friendly structured volunteer/stipend mix. |
 | 🟢 [Long-Term Future Fund (LTFF)](https://funds.effectivealtruism.org/funds/far-future) | Median $25K | Yes | Open | Best AI-safety fund for unaffiliated solo. 1-3mo decisions. |
@@ -331,8 +332,8 @@ _50 programs_
 | 🟢 [Anthropic MCP Marketplace](https://www.anthropic.com/partners/mcp) | Per-call / freemium | Yes | Open | Top earner ~£400 MRR. First-mover wins. |
 | 🟠 [Re:cap](https://www.re-cap.com) | €100K-€10M | No | Open | Germany/EU only. |
 | 🟡 [Konwinski Prize](https://www.kaggle.com/competitions/konwinski-prize) | $1M grand | Conditional | Open | 90% GH issue resolver bar — very hard. |
+| 🟡 [OpenAI Bio Bounty Program](https://openai.com/index/gpt-5-5-bio-bug-bounty/) | Up to $50K (single winner, universal jailbreak) | Conditional | Open | Renamed from “GPT-5.5 Bio Bug Bounty” to “OpenAI Bio Bounty Program.” Universal-jailbreak reward raised fro... |
 | 🟡 [HackerOne AI Red Team](https://www.hackerone.com/product/ai-red-teaming) | $5K-$50K per program | Conditional | Open | 750+ AI specialists in 2026. |
-| 🟡 [OpenAI GPT-5.5 Bio Bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/) | Up to $25K (single winner) | Conditional | Open | Apr 28 - Jul 27 2026 window. Only 1st earns full. |
 | 🟡 [AMD AI Developer Program](https://lablab.ai) | $21.5K + GPU prizes | Conditional | Open | Hardware ROI. |
 | 🟡 [Hum Capital](https://humcapital.com) | Match to lenders | Conditional | Open | Brokerage feel. |
 | 🟡 [Acquire.com financing](https://acquire.com) | Up to deal value | Conditional | Open | Roll up small AI micro-SaaS. |
